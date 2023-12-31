@@ -1,0 +1,57 @@
+[Play_storybook_02_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_02b_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_03_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_04_mix_03 AkEvent]
+Subtitles[0]=(Text=" ", Time=0.0f)
+Subtitles[1]=(Text="Y así termina la historia.", Time=1.6f)
+Subtitles[2]=(Text=" ", Time=3.9f)
+Subtitles[3]=(Text=" ", Time=5.8f)
+Subtitles[4]=(Text="¡Es broma! Esto es lo que sucedió.", Time=7.08f)
+Subtitles[5]=(Text="Tampoco es que mejore mucho la cosa...", Time=12.29f)
+Subtitles[6]=(Text="Bueno, al menos has llegado bien a la dimensión alternativa.", Time=15.3f)
+Subtitles[7]=(Text="Por desgracia, ahora estoy atrapado aquí.", Time=19.38f)
+Subtitles[8]=(Text="Voy a tener que solucionar este percance.", Time=24.35f)
+Subtitles[9]=(Text=" ", Time=26.9f)
+Subtitles[10]=(Text="Esto ", Time=38.75f)
+Subtitles[11]=(Text="se va a poner interesante.", Time=40.06f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_storybook_mix_1 AkEvent]
+Subtitles[0]=(Text="Había una vez... ¿Así es como suelen empezar las historias estas, no?",Time=2.0f)
+Subtitles[1]=(Text="Una hermana que se compadeció de su brillante, pródigo e increíble hermano. ",Time=6.0f)
+Subtitles[2]=(Text="Por alguna razón absurda se le metió en la cabeza que él debía de sentirse muy solo, o al menos eso es lo que dice.", Time=11.5f)
+Subtitles[3]=(Text="Así pues, una tarde de viernes especialmente productiva, la hermana fue a buscar a su hijo a la academia de chicos Elwood",Time=17.0f)
+Subtitles[4]=(Text="y dejó al pesado del crío en el portal de mi... digo, de su hermano.",Time=23.0f)
+Subtitles[5]=(Text="Desde entonces, tú... ay, el niño, visitó la mansión Quadwrangle varias veces.",Time=29.5f)
+Subtitles[6]=(Text="Cada visita venía marcada por la increíble entrada del hermano, que, de hecho, era un profesor e inventor de gran intelecto.",Time=34.5f)
+Subtitles[7]=(Text="Cada vez iba mostrándole inventos mejores y de tecnología más puntera.",Time=48.0f)
+Subtitles[8]=(Text="El chiquillo esperaba con ansias el último de los artilugios del profesor, sólo que esta vez, la más cautivadora de las visitas empezó un poco diferente.",Time=55.0f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Stop_cutscene AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+

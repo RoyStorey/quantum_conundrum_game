@@ -1,0 +1,57 @@
+[Play_storybook_02_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_02b_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_03_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_04_mix_03 AkEvent]
+Subtitles[0]=(Text=" ", Time=0.0f)
+Subtitles[1]=(Text="Et c'est ainsi que se termine l'histoire.", Time=1.6f)
+Subtitles[2]=(Text=" ", Time=3.9f)
+Subtitles[3]=(Text=" ", Time=5.8f)
+Subtitles[4]=(Text="Je plaisante ! Voilà ce qui s'est réellement produit. ", Time=7.08f)
+Subtitles[5]=(Text="Je ne suis pas sûr que ça soit mieux, par contre.", Time=12.29f)
+Subtitles[6]=(Text="Bon... Tu as atterri en un seul morceau dans la dimension parallèle.", Time=15.3f)
+Subtitles[7]=(Text="Malheureusement, je suis coincé ici maintenant...", Time=19.38f)
+Subtitles[8]=(Text="Et je vais devoir trouver un moyen de gérer cette situation délicate.", Time=24.35f)
+Subtitles[9]=(Text=" ", Time=26.9f)
+Subtitles[10]=(Text="Ça...", Time=38.75f)
+Subtitles[11]=(Text="...promet d'être intéressant.", Time=40.06f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_storybook_mix_1 AkEvent]
+Subtitles[0]=(Text="Il était une fois... Ces choses commencent comme ça d'habitude, non ?",Time=2.0f)
+Subtitles[1]=(Text="Une sœur eut pitié de son brillant, prodigieux et incroyable frère.",Time=6.0f)
+Subtitles[2]=(Text="Elle s'était figurée qu'il pouvait souffrir de solitude... ou du moins c'est ce qu'elle prétendait.", Time=11.5f)
+Subtitles[3]=(Text="Ainsi, au cours d'un vendredi après-midi aussi productif que parfait, elle récupéra son fils à la sortie de l'Académie pour Garçons d'Elwood",Time=17.0f)
+Subtitles[4]=(Text="et déposa l'exaspérant marmot devant ma porte. Je veux dire devant la porte de son frère.",Time=23.0f)
+Subtitles[5]=(Text="Tu... enfin, le garçon, avait déjà eu l'occasion de visiter le manoir Quadwrangle à quelques reprises.",Time=29.5f)
+Subtitles[6]=(Text="Le frère faisait à chaque fois une entrée grandiose. Il était en réalité un professeur et un inventeur, doté d'une intelligence aussi vive que profonde.",Time=34.5f)
+Subtitles[7]=(Text="À chaque visite, les inventions qu'il présentait étaient toujours plus astucieuses, toujours à l'avant-garde.",Time=48.0f)
+Subtitles[8]=(Text="Le garçon attendait avec impatience de découvrir les dernières créations du professeur, mais cette fois-ci, la plus captivante de ses visites commença un peu différemment.",Time=55.0f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Stop_cutscene AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+

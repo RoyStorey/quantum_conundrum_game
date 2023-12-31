@@ -1,0 +1,6 @@
+[FontLib]
+FontLib=shift_ui.fonts_en
+FontLib=shift_ui.gfxfontlib
+
+[Fonts]
+WonkersFont=Wonkers

@@ -1,0 +1,57 @@
+[Play_storybook_02_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_02b_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_03_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_04_mix_03 AkEvent]
+Subtitles[0]=(Text=" ", Time=0.0f)
+Subtitles[1]=(Text="And that's how our story ends.", Time=1.6f)
+Subtitles[2]=(Text=" ", Time=3.9f)
+Subtitles[3]=(Text=" ", Time=5.8f)
+Subtitles[4]=(Text="Just kidding! Here's what really happened. ", Time=7.08f)
+Subtitles[5]=(Text="Not a whole lot of improvement though. ", Time=12.29f)
+Subtitles[6]=(Text="Well, you ended up safe in the pocket dimension.", Time=15.3f)
+Subtitles[7]=(Text="Unfortunately, now I'm stuck out here.", Time=19.38f)
+Subtitles[8]=(Text="And I'm going to have to tackle this predicament.", Time=24.35f)
+Subtitles[9]=(Text=" ", Time=26.9f)
+Subtitles[10]=(Text="This ", Time=38.75f)
+Subtitles[11]=(Text="is going to be interesting.", Time=40.06f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_storybook_mix_1 AkEvent]
+Subtitles[0]=(Text="Once upon a time... That's how these things usually start, yes?",Time=2.0f)
+Subtitles[1]=(Text="A sister took pity on her brilliant, prolific, and incredible brother.",Time=6.0f)
+Subtitles[2]=(Text="She had somehow gotten it in her head that he might be lonely, or at least that's what she claims.", Time=11.5f)
+Subtitles[3]=(Text="And so, on a perfectly fine, productive Friday afternoon the sister picked up her son from the Elwood Academy for Boys",Time=17.0f)
+Subtitles[4]=(Text="and dropped the aggravating child off on my -- I mean, the brother's doorstep.",Time=23.0f)
+Subtitles[5]=(Text="Now you -- I mean, the boy -- had visited Quadwrangle Manor on a few occasions.",Time=29.5f)
+Subtitles[6]=(Text="Each time was complete with a grand entrance from the brother, who was, in fact, a professor and inventor with a profound and soaring intellect.",Time=34.5f)
+Subtitles[7]=(Text="With each visit, the inventions he exhibited became more slick and cutting edge.",Time=48.0f)
+Subtitles[8]=(Text="The boy eagerly awaited the revealing of the professor's latest contrivance, but this, the most captivating of visits, started a bit differently.",Time=55.0f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Stop_cutscene AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+

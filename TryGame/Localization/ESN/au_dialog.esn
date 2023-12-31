@@ -1,0 +1,6645 @@
+[Play_A_01_001 AkEvent]
+Subtitles[0]=(Text="Algunas dimensiones están fuertemente ligadas, como la normal donde estamos ahora mismo y la que suelo llamar \"dimensión ligera\". Esto incrementa las posibilidades de que suceda una brecha dimensional entre las mismas.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_002 AkEvent]
+Subtitles[0]=(Text="Este experimento de cambios dimensionales aún está en una fase muy primeriza, por lo que he decidido activarlo con un pájaro bebedor.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_003 AkEvent]
+Subtitles[0]=(Text="En esta habitación hay uno de mis inventos: la Grulla Articulada de Repetición Periódica. Es una versión mejorada del clásico pájaro bebedor.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_004 AkEvent]
+Subtitles[0]=(Text="Ahí está otra vez ese encantador pajarito. A veces lo llamo Desmond.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_005 AkEvent]
+Subtitles[0]=(Text="Aún no puedes cambiar de dimensión. Sé paciente.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_006 AkEvent]
+Subtitles[0]=(Text="Ah, ése es Ike, una entidad cinética interdimensional que me siguió hasta casa un día.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_007 AkEvent]
+Subtitles[0]=(Text="Llevo estudiando la raza de Ike un buen tiempo y normalmente no suelen manifestarse tanto como él.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_008 AkEvent]
+Subtitles[0]=(Text="En vez de hacer funcionar la puerta, el pájaro activará el interruptor dimensional.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_008b AkEvent]
+Subtitles[0]=(Text="Hay una batería IDS en la máquina que activará las dimensiones.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_009 AkEvent]
+Subtitles[0]=(Text="Además de ser terriblemente adorable, la dimensión ligera resulta muy útil ya que todo es diez veces más liviano de lo normal.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_010 AkEvent]
+Subtitles[0]=(Text="Aunque esto parezca una balanza mundana, en realidad es un convertidor cinético portátil de masa a electricidad.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_010b AkEvent]
+Subtitles[0]=(Text="Si colocas un objeto lo bastante pesado encima, debería generar suficiente energía para abrir la puerta.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_011 AkEvent]
+Subtitles[0]=(Text="Ya que tienes una versión del dispositivo IDS, vale la pena saber que de hecho \"tú\" no eres el \"tú\" de las dimensiones alternativas...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_011b AkEvent]
+Subtitles[0]=(Text="No me estoy explicando...")
+Subtitles[1]=(Text="Me refiero a que tú eres constante, así que no importa en qué dimensión estés, tu masa, figura, velocidad y testarudez seguirán siendo las mismas.",Time=1.5f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_A_01_012 AkEvent]
+Subtitles[0]=(Text="No sólo he conseguido que el yo se mantenga estable en las dimensiones, sino que también he conseguido mantener varios de mis inventos en nuestra dimensión original.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_013 AkEvent]
+Subtitles[0]=(Text="A ver si consigues solucionar esto.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_014 AkEvent]
+Subtitles[0]=(Text="Deberías lanzar esa batería IDS en el receptáculo que hay en la pared.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_014b AkEvent]
+Subtitles[0]=(Text="El receptáculo está en el piso de arriba.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_015 AkEvent]
+Subtitles[0]=(Text="El receptáculo distribuirá la energía por toda la habitación, cosa que te permitirá utilizar tu dispositivo IDS para cambiar las dimensiones a tu antojo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_02_005 AkEvent]
+Subtitles[0]=(Text="El receptáculo está en el piso de arriba.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_02_006 AkEvent]
+Subtitles[0]=(Text="Esa batería roja contiene suficiente energía para permitir al dispositivo IDS ampliar en esta área la brecha a la dimensión pesada.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_02_007 AkEvent]
+Subtitles[0]=(Text="Parece que esta DOLLI ha quedado atrapada en un bucle infinito. Qué inoportuno.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_02_008 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_02_009 AkEvent]
+Subtitles[0]=(Text="Oh, la repetición resulta hasta calmante, como el murmullo de un arroyo o los sonidos de los delfines.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_02_010 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_03_001 AkEvent]
+Subtitles[0]=(Text="En caso de que te preguntes qué ha pasado, has activado un ventilador... por favor, no me digas que te tengo que explicar estas cosas.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_03_002 AkEvent]
+Subtitles[0]=(Text="¡Vuelve ahora mismo!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_03_003 AkEvent]
+Subtitles[0]=(Text="Y sí, este es otro cristal roto que te haré reponer luego.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_03_004 AkEvent]
+Subtitles[0]=(Text="Veo que tus padres te han criado la mar de bien.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_03_005 AkEvent]
+Subtitles[0]=(Text="Cintas mecánicas de transporte.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_03_006 AkEvent]
+Subtitles[0]=(Text="A veces la pereza debería estar permitida.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_03_007 AkEvent]
+Subtitles[0]=(Text="Es mucho más fácil que llevar las cosas tú mismo.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_04_001 AkEvent]
+Subtitles[0]=(Text="¡Bien hecho! No, de hecho no.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_04_001a AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_04_002 AkEvent]
+Subtitles[0]=(Text="Creo que te estás olvidando de algo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_04_003 AkEvent]
+Subtitles[0]=(Text="Como en la dimensión pesada se incrementa la densidad y el punto de fundición de los objetos, los rayos láser Quadwrangle se vuelven inefectivos.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_04_004 AkEvent]
+Subtitles[0]=(Text="Como todo en la vida, la clave es encontrar el momento adecuado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_04_005 AkEvent]
+Subtitles[0]=(Text="Nada mal.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_04_005a AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_a_04_006 AkEvent]
+Subtitles[0]=(Text="En mi mente esto tenía otro uso, y no era el que le has dado tú precisamente.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_05_001 AkEvent]
+Subtitles[0]=(Text="Fíjate que si interrumpes el rayo azul, algo se desactiva.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_05_001b AkEvent]
+Subtitles[0]=(Text="Es un transmisor terrestre de energía, otro invento sublime de Industrias Quadwrangle.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_05_002 AkEvent]
+Subtitles[0]=(Text="Parece ser que esta unidad aún necesita un poco de trabajo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_05_003 AkEvent]
+Subtitles[0]=(Text="Ahora no caigo en cuántos BEDs de radiación emite esto. Espero que no quisieras tener hijos.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_06_001 AkEvent]
+Subtitles[0]=(Text="Estoy casi seguro de que Desmond podría resultarte útil.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_06_002 AkEvent]
+Subtitles[0]=(Text="Creo que se te está olvidando algo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_06_003 AkEvent]
+Subtitles[0]=(Text="Ve con cuidado. ¡No te apalanques!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_06_004 AkEvent]
+Subtitles[0]=(Text="El tres me parece un número muy gratificante. No es solo un número Heegner, sino también la cantidad exacta de bolas en un helado.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_06_005 AkEvent]
+Subtitles[0]=(Text="Creo que yo lo habría hecho mejor. Pero en fin, no está mal.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_07_001 AkEvent]
+Subtitles[0]=(Text="Esto es una plataforma de compresión, que utiliza energía fotoeléctrica para funcionar.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_07_001a AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_07_002 AkEvent]
+Subtitles[0]=(Text="Como un trampolín, la energía que vibra debajo de la plataforma estimula las moléculas del aire creando una rigidez estructural elástica.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_07_003 AkEvent]
+Subtitles[0]=(Text="Cuidado...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_08_001 AkEvent]
+Subtitles[0]=(Text="Tan sólo recuerda que necesitas un cambio importante en la materia para que se cree suficiente energía mecánica.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_08_002 AkEvent]
+Subtitles[0]=(Text="¡Intenta tomar velocidad!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_08_003 AkEvent]
+Subtitles[0]=(Text="¡Es hora de saltar a la acción!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_08_004 AkEvent]
+Subtitles[0]=(Text="Me troncho y me mondo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_08_005 AkEvent]
+Subtitles[0]=(Text="¿A que da gustirrinín?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_09_001 AkEvent]
+Subtitles[0]=(Text="Ya sabes, mejor son dos que uno. Ju, ju, ju.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_09_002 AkEvent]
+Subtitles[0]=(Text="En mis años universitarios, era el campeón de lanzamiento de tiro pesado de mi equipo de atletismo.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_09_003 AkEvent]
+Subtitles[0]=(Text="Los micro-reactores electromagnéticos, o contenedores eléctricos, necesitan una policélula conductiva.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_09_004 AkEvent]
+Subtitles[0]=(Text="También estaba en el equipo de baloncesto...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_09_005 AkEvent]
+Subtitles[0]=(Text="Oh... ¿Oooh?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_09_006 AkEvent]
+Subtitles[0]=(Text="¡Buen tiro!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_09_007 AkEvent]
+Subtitles[0]=(Text="¡Canasta!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_09_008 AkEvent]
+Subtitles[0]=(Text="Bien jugado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_09_009 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_09_010 AkEvent]
+Subtitles[0]=(Text="A ver, que te lo deletreo: Eso. No. Funcionó.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_10_001 AkEvent]
+Subtitles[0]=(Text="¡Ajá! Eso es una DOLLI: Dispositivo de Organización Lineal de Libre Interfaz.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_10_002 AkEvent]
+Subtitles[0]=(Text="Un dispositivo de clonación, vaya.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_10_003 AkEvent]
+Subtitles[0]=(Text="Como adoro mi casa tal y como es, le he añadido la función para que lo mantenga todo igual.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_10_004 AkEvent]
+Subtitles[0]=(Text="Ups... tendré que retocarla luego.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_10_005 AkEvent]
+Subtitles[0]=(Text="¡Anda! Esta es mi silla favorita.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_10_005b AkEvent]
+Subtitles[0]=(Text="Oh, y esta también.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_10_006 AkEvent]
+Subtitles[0]=(Text="Esos son mis rayos híbridos de dióxido de carbono y de granate-alúmina reforzado con itrio-neodimio, con una configuración modificada.")
+Subtitles[1]=(Text="Les da un toque especial.",Time=9.0f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_A_10_007 AkEvent]
+Subtitles[0]=(Text="Eso de allí es como un convertidor cinético de materia a electricidad... solo que más grande.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_10_008 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_10_009 AkEvent]
+Subtitles[0]=(Text="Por desgracia, romper ese cristal es un mal necesario. ¡No te lo tomes como permiso para hacerlo en todos lados!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_10_010 AkEvent]
+Subtitles[0]=(Text="Los astrónomos de antaño solían mirar al cielo en busca de respuestas... Te sugiero que hagas lo mismo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_11_001 AkEvent]
+Subtitles[0]=(Text="Oh no... ¡Ni se te ocurra!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_11_002 AkEvent]
+Subtitles[0]=(Text="Al menos intenta no empalarte y dejarlo todo lleno de sangre. Con tener que limpiar los cristales ya es suficiente.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_11_003 AkEvent]
+Subtitles[0]=(Text="Esta habitación es de lo más calurosa en verano. La circulación del aire es imperativa.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_11_004 AkEvent]
+Subtitles[0]=(Text="El aspecto físico de esto sigue dejándome boquiabierto.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_11_005 AkEvent]
+Subtitles[0]=(Text="En principio deberías poder utilizar ese ventilador.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_11_006 AkEvent]
+Subtitles[0]=(Text="A tu edad yo ya estaba separando átomos. ¿Qué has estado haciendo tú?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_11_011 AkEvent]
+Subtitles[0]=(Text="En serio, deberías ir con cuidado. Esos rayos láser no son muy agradables, te lo digo por experiencia.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_11_012 AkEvent]
+Subtitles[0]=(Text="Ah, que sepas que has vuelto a poner el cristal. ¡Muchas gracias!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_12_001 AkEvent]
+Subtitles[0]=(Text="Uy, veo que has llegado a la parte de la mansión donde se puede acceder a otro tipo de brecha dimensional.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_12_002 AkEvent]
+Subtitles[0]=(Text="Esta es la dimensión de tungsteno gravitacional, o \"dimensión pesada\".")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_12_003 AkEvent]
+Subtitles[0]=(Text="Esta dimensión está en oposición directa de la ligera y hace que todo sea diez veces más pesado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_12_004 AkEvent]
+Subtitles[0]=(Text="Como ves, el cambio de dimensiones se activa a distancia gracias al pájaro bebedor.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_12_005 AkEvent]
+Subtitles[0]=(Text="Imagínate lo que tardé en montar todo esto... ¡Ve con cuidado!"
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_12_006 AkEvent]
+Subtitles[0]=(Text="Te ayudaría, pero la verdad es que se me ha olvidado qué DOLLI va enchufada a qué convertidor de energía...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_13_001 AkEvent]
+Subtitles[0]=(Text="A ver... necesitas llegar a la puerta de allí arriba, pero antes tendrás que apañártelas por el sistema de distribución de objetos.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_13_002 AkEvent]
+Subtitles[0]=(Text="¡Ve con cuidado ahora!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_13_003 AkEvent]
+Subtitles[0]=(Text="¡Definitivamente, este no es el mejor lugar donde estar!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_13_004 AkEvent]
+Subtitles[0]=(Text="Creo que no deberías quedarte aquí, pero supongo que no hay otra.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_13_005 AkEvent]
+Subtitles[0]=(Text="¡Salta!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_13_006 AkEvent]
+Subtitles[0]=(Text="Con calma.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_13_007 AkEvent]
+Subtitles[0]=(Text="¿Estás seguro?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_13_008 AkEvent]
+Subtitles[0]=(Text="Ya casi... creo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_13_009 AkEvent]
+Subtitles[0]=(Text="¡Bien hecho!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_14_001 AkEvent]
+Subtitles[0]=(Text="¡Fantástico! Lo has conseguido. Si te las arreglas para llegar al generador te diré lo que tienes que hacer.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_14_002 AkEvent]
+Subtitles[0]=(Text="Por tu propia salud y seguridad, te recomiendo que los desactives.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_14_003 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_14_004 AkEvent]
+Subtitles[0]=(Text="Los interruptores de los rayos láser tienen que estar por allí arriba... en algún lugar.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_14_005 AkEvent]
+Subtitles[0]=(Text="Ajá, mucho más tranquilo ahora.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_14_006 AkEvent]
+Subtitles[0]=(Text="Deberás encontrar la manera de llegar al otro lado ya que la plataforma se ha desmoronado.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_14_007 AkEvent]
+Subtitles[0]=(Text="Bien, parece que el motor ha parado. Tendrás que girar la manivela rápidamente para reactivar el generador.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_14_008 AkEvent]
+Subtitles[0]=(Text="Deberás darle a la manivela para activar el alternador del generador.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_a_14_009 AkEvent]
+Subtitles[0]=(Text="¡Genial! El primero ya está, ¡sólo quedan dos!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_a_14_01 AkEvent]
+Subtitles[0]=(Text="Esto me recuerda esa vez que el nivel de voltios de la corriente continua se vio compensado por el multiplicador de tensión.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_a_14_010 AkEvent]
+Subtitles[0]=(Text="Esto me recuerda esa vez que el voltaje de la corriente continua se vio compensado por el multiplicador de tensión.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_a_14_011 AkEvent]
+Subtitles[0]=(Text="Este parece un buen lugar para empezar.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_a_14_012 AkEvent]
+Subtitles[0]=(Text="Bueno... has hecho... algo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_14_02 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_001 AkEvent]
+Subtitles[0]=(Text="Justamente estás en una de mis salas favoritas de la mansión.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_002 AkEvent]
+Subtitles[0]=(Text="Como puedes ver, tengo algunos cuadros de mis invenciones por aquí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_003 AkEvent]
+Subtitles[0]=(Text="La más importante de ellas es la que llevas en este instante; el dispositivo IDS.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_004 AkEvent]
+Subtitles[0]=(Text="Uno de los temas que mi familia lleva generaciones estudiando es el de las brechas interdimensionales.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_005 AkEvent]
+Subtitles[0]=(Text="He podido crear una fuente de energía que canaliza suficiente potencia a una de estas brechas agrandándola y pudiendo así cruzar al otro lado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_005b AkEvent]
+Subtitles[0]=(Text="He conseguido desarrollar una fuente de energía que te permite viajar a través de cualquiera de las brechas dimensionales que haya en el área.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_006 AkEvent]
+Subtitles[0]=(Text="El guante controla la fuente de energía, lo que te permite viajar a través de cualquier brecha dimensional que haya en el área.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_006b AkEvent]
+Subtitles[0]=(Text="")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_007 AkEvent]
+Subtitles[0]=(Text="Aún no tienes control sobre el cambio de dimensiones. Sé paciente.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_008 AkEvent]
+Subtitles[0]=(Text="En la pared puedes ver un cuadro de tu guante.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_009 AkEvent]
+Subtitles[0]=(Text="Normalmente controlo un dispositivo IDS, pero no lo tengo conmigo y la verdad, eso me preocupa un poco.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_010 AkEvent]
+Subtitles[0]=(Text="Esta puerta utiliza una de mis invenciones: la Grulla Articulada de Repetición Periódica.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_011 AkEvent]
+Subtitles[0]=(Text="O vaya, un pájaro bebedor. Solo que... mucho más avanzado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_012 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_15_013 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_01_001 AkEvent]
+Subtitles[0]=(Text="En caso de que tengas curiosidad acerca de los tubos neumáticos de transporte que hay alrededor de la mansión,")
+Subtitles[1]=(Text="funcionan con la misma \"emulciencia\" que corre por las baterías del IDS.",Time=4.0f)
+bMature=False""
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_B_01_001b AkEvent]
+Subtitles[0]=(Text="Conseguí sustraer el material básico de la emulciencia de una, eh... fuente biológica secreta.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_01_002 AkEvent]
+Subtitles[0]=(Text="¡Ja! Ojalá pudieras verte el careto ahora mismo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_01_003 AkEvent]
+Subtitles[0]=(Text="Supongo que ya te habrás dado cuenta de que el tiempo en esta dimensión se prolonga, causando que todo vaya a cámara lenta.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_01_004 AkEvent]
+Subtitles[0]=(Text="Como un conejo pan-dimensional, saltando a través de un paisaje de campos cuánticos.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_01_005 AkEvent]
+Subtitles[0]=(Text="Pura poesía.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_01_006 AkEvent]
+Subtitles[0]=(Text="No sé muy bien por dónde para Desmond...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_01_007 AkEvent]
+Subtitles[0]=(Text="A veces ir a cámara lenta puede revelarte el camino correcto.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_02_001 AkEvent]
+Subtitles[0]=(Text="¿He mencionado ya que la mansión necesita mucha ventilación?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_02_002 AkEvent]
+Subtitles[0]=(Text="Cuidado, las aspas están muy afiladas.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_02_003 AkEvent]
+Subtitles[0]=(Text="En fin, no es el mejor lugar donde estar, pero por desgracia no hay otra.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_02_004 AkEvent]
+Subtitles[0]=(Text="Yo movería el trasero si fuera tú.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_02_005 AkEvent]
+Subtitles[0]=(Text="Bien.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_02_006 AkEvent]
+Subtitles[0]=(Text="Perfecto, ¡siguiente!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_02_007 AkEvent]
+Subtitles[0]=(Text="Salta...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_02_008 AkEvent]
+Subtitles[0]=(Text="de ahí...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_02_009 AkEvent]
+Subtitles[0]=(Text="¡AHORA!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_02_010 AkEvent]
+Subtitles[0]=(Text="Podrías pasar por allí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_02_011 AkEvent]
+Subtitles[0]=(Text="No te olvides de respirar, es un aspecto importante de la vida.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_03_001 AkEvent]
+Subtitles[0]=(Text="BOT-bots, o Bot Básico Ortogonal de Transporte. Los inventé hace mucho para que realizaran tareas sencillas.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_03_001b AkEvent]
+Subtitles[0]=(Text="Los inventé hace mucho para que realizaran tareas sencillas.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_03_002 AkEvent]
+Subtitles[0]=(Text="Su inteligencia artificial es muy simple, pero ayudan a mantener la casa ordenada.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_03_003 AkEvent]
+Subtitles[0]=(Text="Me da a mí que necesitas un poco de práctica con el interruptor de conversión.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_03_004 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_03_005 AkEvent]
+Subtitles[0]=(Text="Pues qué bien, lo conseguiste. Supongo que podrías sentirte orgulloso si quisieras.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_04_001 AkEvent]
+Subtitles[0]=(Text="Esta pantalla debería mostrar lo que sucede en la habitación de al lado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_04_002 AkEvent]
+Subtitles[0]=(Text="Tenía un día de lo más tedioso, así que me puse a jugar a atrapar la pelota conmigo mismo utilizando la dimensión ralentizada.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_04_003 AkEvent]
+Subtitles[0]=(Text="Deberías intentarlo alguna vez.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_04_004 AkEvent]
+Subtitles[0]=(Text="¿No sería genial que pudieras alargar el tiempo que está en el aire?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_04_005 AkEvent]
+Subtitles[0]=(Text="Por algún motivo, esta configuración de rayos láser en particular está prohibida en varias naciones. No sé por qué será...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_05_001 AkEvent]
+Subtitles[0]=(Text="Creo que esta es la caja fuerte número 21.157.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_05_002 AkEvent]
+Subtitles[0]=(Text="Me temo que necesitarás algo más aparte de tu prominente cráneo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_05_003 AkEvent]
+Subtitles[0]=(Text="Eso servirá.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_05_004 AkEvent]
+Subtitles[0]=(Text="Ah. Esto es uno de los lados del generador de esta ala, pero por desgracia tendrás que dar toda la vuelta para acceder a la parte adecuada.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_05_005 AkEvent]
+Subtitles[0]=(Text="Allí hay un interruptor eléctrico de conversión que necesita un objeto pesado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_06_001 AkEvent]
+Subtitles[0]=(Text="¡Oh! Creo que hay una batería IDS de la dimensión pesada en esa estructura de allí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_06_002 AkEvent]
+Subtitles[0]=(Text="Esos BOT-bots están programados para no dejar pasar ningún objeto extraño no biológico.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_06_003 AkEvent]
+Subtitles[0]=(Text="Objetos extraños como ése.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_06_004 AkEvent]
+Subtitles[0]=(Text="¿Recuerdas lo que te decía de jugar a atrapar la pelota? Pues ahora es un buen momento para probar.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_07_001 AkEvent]
+Subtitles[0]=(Text="Parece que esta unidad también requiere un retoque.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_07_002 AkEvent]
+Subtitles[0]=(Text="¡Cajapúltate!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_07_003 AkEvent]
+Subtitles[0]=(Text="Y bien, ¿a qué esperas?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_07_004 AkEvent]
+Subtitles[0]=(Text="Tengo mis dudas sobre tu capacidad de manejar esta situación.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_07_005 AkEvent]
+Subtitles[0]=(Text="Oh. Bueno, eso ha sido una agradable sorpresa.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_07_006 AkEvent]
+Subtitles[0]=(Text="Deberías pensar en lanzar eso. Digo yo, eh, no sé.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_08_001 AkEvent]
+Subtitles[0]=(Text="Esto era una de las bibliotecas de la mansión. Yo... eh... la alteré un poco.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_08_002 AkEvent]
+Subtitles[0]=(Text="¡Caja-púltate!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_08_003 AkEvent]
+Subtitles[0]=(Text="¿Cómo va el dicho? ¡Agarra el toro por los cuernos!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_08_004 AkEvent]
+Subtitles[0]=(Text="Bueno, más bien \"agarra la caja por los cuernos\"...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_09_001 AkEvent]
+Subtitles[0]=(Text="Hice mi primer prototipo cuando tenía tu edad. No he tenido corazón de cambiar el diseño.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_09_002 AkEvent]
+Subtitles[0]=(Text="Creo que hay una batería IDS en el otro lado del ventilador.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_09_003 AkEvent]
+Subtitles[0]=(Text="¿Me permites recomendarte un pequeño rodeo?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_09_004 AkEvent]
+Subtitles[0]=(Text="¿Quién iba a pensar que caer podía resultar una experiencia tan plácida?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_10_001 AkEvent]
+Subtitles[0]=(Text="Deberías apartarte de su camino.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_10_002 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_10_003 AkEvent]
+Subtitles[0]=(Text="Pongamos las cartas sobre la mesa.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_10_004 AkEvent]
+Subtitles[0]=(Text="¡Silla decía yo que eras bueno!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_10_005 AkEvent]
+Subtitles[0]=(Text="Ningún lugar mejor para filosofá.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_10_005a AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_10_006 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_10_007 AkEvent]
+Subtitles[0]=(Text="¿Te acuerdas de esos muebles que coleccioné de los 60? Pues deberías, acabas de tirarlos al otro lado de la sala.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_10_008 AkEvent]
+Subtitles[0]=(Text="Me encantaba esa silla. A ti no tanto, veo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_10_009 AkEvent]
+Subtitles[0]=(Text="No pierdas de vista ese rayo de activación.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_11_001 AkEvent]
+Subtitles[0]=(Text="Me da la impresión de que no crees necesario tener un título en robótica para manejar eso.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_11_002 AkEvent]
+Subtitles[0]=(Text="Aquí está la plataforma de compresión otra vez.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_11_003 AkEvent]
+Subtitles[0]=(Text="¿Te acuerdas de que necesitas un cambio de masa importante, no?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_11_004 AkEvent]
+Subtitles[0]=(Text="El tiempo es de vital importancia aquí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_11_005 AkEvent]
+Subtitles[0]=(Text="¿Cómo suele decirse? A veces un paso atrás es un paso adelante.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_11_006 AkEvent]
+Subtitles[0]=(Text="Pero vaya, que si estás en una maratón eso es una tontería.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_11_007 AkEvent]
+Subtitles[0]=(Text="Eh, pues... se terminó lo que se daba.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_12_001 AkEvent]
+Subtitles[0]=(Text="¡Está todo totalmente inundado! ¿Qué habrá pasado?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_12_002 AkEvent]
+Subtitles[0]=(Text="Tendrás que activar el dispositivo DOLLI de alguna manera.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_12_003 AkEvent]
+Subtitles[0]=(Text="¿Se te ha ocurrido mirar tras la puerta de la primera habitación? Qué poco se fija la juventud de hoy en día...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_12_004 AkEvent]
+Subtitles[0]=(Text="Mmm. El nivel de inundación resulta bastante desconcertante.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_12_005 AkEvent]
+Subtitles[0]=(Text="Eh... esto podía haber ido mucho, mucho peor.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_13_001 AkEvent]
+Subtitles[0]=(Text="¡Corre, corre, corre!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_13_002 AkEvent]
+Subtitles[0]=(Text="Ah, sí. Hay un convertidor eléctrico allí arriba.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_13_003 AkEvent]
+Subtitles[0]=(Text="Ajá, pues muy bien.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_13_004 AkEvent]
+Subtitles[0]=(Text="Mmm, parece que algo no termina de funcionar. Tendrás que darte tu propio impulso mientras estés arriba.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_13_005 AkEvent]
+Subtitles[0]=(Text="¡Dispara!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_14_001 AkEvent]
+Subtitles[0]=(Text="Dejémoslo en que estoy sonriendo en mi interior.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_14_002 AkEvent]
+Subtitles[0]=(Text="Estás pasando por alto la conexión más obvia.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_14_003 AkEvent]
+Subtitles[0]=(Text="Ajá, justamente lo que necesitaba: tus huellas dactilares.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_14_004 AkEvent]
+Subtitles[0]=(Text="Dodecaedro. ¡Juas! Intenta decirlo rápido tres veces. Dodecaedro, dodecaedro, dodecaedro.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_14_005 AkEvent]
+Subtitles[0]=(Text="Necesitas meter esas policélulas en los contenedores del otro lado de la puerta.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_14_006 AkEvent]
+Subtitles[0]=(Text="¡Así se hace!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_14_007 AkEvent]
+Subtitles[0]=(Text="¡Abre esa puerta!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_14_008 AkEvent]
+Subtitles[0]=(Text="¡Ahora la otra!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_14_009 AkEvent]
+Subtitles[0]=(Text="¡Dimensión pesada!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_15_001 AkEvent]
+Subtitles[0]=(Text="Vale, esto es un paso más.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_15_002 AkEvent]
+Subtitles[0]=(Text="Estoy seguro de que conseguirás la batería. De algún modo u otro.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_15_003 AkEvent]
+Subtitles[0]=(Text="El receptáculo de la batería IDS está en... ¿dónde era?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_15_004 AkEvent]
+Subtitles[0]=(Text="Te recomendaría intentar no dispararte en la cara, es sólo una idea.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_15_005 AkEvent]
+Subtitles[0]=(Text="Eso es moverse rápido. A lo mejor podrías encontrar un lugar mejor para llegar allí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_16_001 AkEvent]
+Subtitles[0]=(Text="Vas a necesitar encontrar otra batería primero.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_b_16_002 AkEvent]
+Subtitles[0]=(Text="Apretar interruptores se te da casi tan bien como a Desmond. ¡Podrías dedicarte a esto!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_16_003 AkEvent]
+Subtitles[0]=(Text="Creo que te sigue faltando otra batería.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_16_004 AkEvent]
+Subtitles[0]=(Text="¡Perfecto! Tienes la batería de la dimensión ligera.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_16_005 AkEvent]
+Subtitles[0]=(Text="Buen trabajo, has conseguido la batería de la dimensión pesada.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_16_006 AkEvent]
+Subtitles[0]=(Text="Intrigantemente complicado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_16_007 AkEvent]
+Subtitles[0]=(Text="¿Por qué no intentas agarrar una de esas?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_16_008 AkEvent]
+Subtitles[0]=(Text="A lo mejor tienes que \"aligerar\" un poco tu carga...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_17_001 AkEvent]
+Subtitles[0]=(Text="Ooh... vaya, lo siento mucho.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_17_002 AkEvent]
+Subtitles[0]=(Text="Puede que ahora mismo no estés en el lugar más seguro del mundo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_17_003 AkEvent]
+Subtitles[0]=(Text="Tendrás que subir y cruzar allí.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_17_004 AkEvent]
+Subtitles[0]=(Text="¡Arriba! ¡Allá vas!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_17_005 AkEvent]
+Subtitles[0]=(Text="No creo que este sea el mejor lugar para niños, ¿verdad?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_17_006 AkEvent]
+Subtitles[0]=(Text="¡Caray! ¡Cuidado!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_17_007 AkEvent]
+Subtitles[0]=(Text="¡Viga vaaa!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_17_008 AkEvent]
+Subtitles[0]=(Text="Es un transformador rotatorio Quadwrangle. Por si no te habías dado cuenta, son un poco peligrosos.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_17_009 AkEvent]
+Subtitles[0]=(Text="Necesitarás llegar a la plataforma de allí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_17_010 AkEvent]
+Subtitles[0]=(Text="No vayas hasta el otro lado. O vaya... hazlo, pero seguro que te arrepientes.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_17_011 AkEvent]
+Subtitles[0]=(Text="¡Maravilloso! Ahora sólo tienes que activar el alternador.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_001 AkEvent]
+Subtitles[0]=(Text="Y sí, es otro objeto roto que luego me ayudarás a reponer.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_002 AkEvent]
+Subtitles[0]=(Text="Veo que tus padres te han criado la mar de bien.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_003 AkEvent]
+Subtitles[0]=(Text="Uugh...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_004 AkEvent]
+Subtitles[0]=(Text="Eso me gustaba mucho antes de que tú pasaras por encima.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_005 AkEvent]
+Subtitles[0]=(Text="Usted, señorito, es un degenerado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_006 AkEvent]
+Subtitles[0]=(Text="¡¿Por qué?!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_007 AkEvent]
+Subtitles[0]=(Text="Estás agotando mi paciencia.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_008 AkEvent]
+Subtitles[0]=(Text="Me solía gustar ver eso...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_009 AkEvent]
+Subtitles[0]=(Text="¿Alguien te ha mencionado alguna vez que tu presencia puede acabar con cualquiera?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_010 AkEvent]
+Subtitles[0]=(Text="¿Acaso has visto una señal de \"romper en caso de emergencia\"?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_011 AkEvent]
+Subtitles[0]=(Text="¿He mencionado que esta es mi casa? Y que... no sé eh, que VIVO aquí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_012 AkEvent]
+Subtitles[0]=(Text="¿Otra vez? Ya me da incluso miedo contar.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_013 AkEvent]
+Subtitles[0]=(Text="¿Es que no te han enseñado modales tus padres?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_014 AkEvent]
+Subtitles[0]=(Text="¡Oh, qué haría sin ti! ¡Gracias! ¡Necesitaba alguien que rompiera eso!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_015 AkEvent]
+Subtitles[0]=(Text="¡Venga ya!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_016 AkEvent]
+Subtitles[0]=(Text="¡Anonadado me hallo! ¡En verdad lo digo!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_017 AkEvent]
+Subtitles[0]=(Text="Bueno, ahora solo pareces estar buscando atención.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_018 AkEvent]
+Subtitles[0]=(Text="No estás ayudando a que se me pase el dolor de cabeza precisamente.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_019 AkEvent]
+Subtitles[0]=(Text="¿Nunca te cansas de causar caos y destrucción?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_020 AkEvent]
+Subtitles[0]=(Text="¡Fantástico! No, de hecho no.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_021 AkEvent]
+Subtitles[0]=(Text="Tu antes me medio-gustabas.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_022 AkEvent]
+Subtitles[0]=(Text="No... no.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_023 AkEvent]
+Subtitles[0]=(Text="Muy emocionante.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_024 AkEvent]
+Subtitles[0]=(Text="Nada. Feliz.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_025 AkEvent]
+Subtitles[0]=(Text="Odio cuando se rompen las cosas. Particularmente MIS cosas.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_026 AkEvent]
+Subtitles[0]=(Text="Haces mucho ruido para ser un crío que no dice ni mu.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_027 AkEvent]
+Subtitles[0]=(Text="¿Te suena la palabra \"respeto\"? ¿Es mas, sabes alguna palabra?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_028 AkEvent]
+Subtitles[0]=(Text="Qué detalle.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_029 AkEvent]
+Subtitles[0]=(Text="Oooh...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Break_01_030 AkEvent]
+Subtitles[0]=(Text="No sé si eres consciente, pero romper cosas no está bien.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_01_001 AkEvent]
+Subtitles[0]=(Text="¡Oh! ¡Cu-cu...cuidado con eso!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_01_002 AkEvent]
+Subtitles[0]=(Text="¡Vigila!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_01_003 AkEvent]
+Subtitles[0]=(Text="Ah sí, esta es la última de las dimensiones contiguas asociadas.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_01_004 AkEvent]
+Subtitles[0]=(Text="Como puedes observar, el eje de la gravedad en esta dimensión es totalmente opuesto al que estamos acostumbrados.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_01_005 AkEvent]
+Subtitles[0]=(Text="¿Crees que los cuerpos gravitacionales que influyen esta dimensión son diferentes, o es que esta mansión, está de hecho construida al revés? Piénsalo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_01_006 AkEvent]
+Subtitles[0]=(Text="¡Todo lo que sube, tiene que bajar!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_01_007 AkEvent]
+Subtitles[0]=(Text="Tengo un ligero recuerdo de un receptáculo IDS construido en algún lugar del piso de arriba.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_01_008 AkEvent]
+Subtitles[0]=(Text="Ah, ahí está nuestro amiguito.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_01_009 AkEvent]
+Subtitles[0]=(Text="Ciertamente te has vuelto más hábil.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_01_010 AkEvent]
+Subtitles[0]=(Text="Creo que esto ha abierto la trampilla de allí.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_02_001 AkEvent]
+Subtitles[0]=(Text="Debe de haber otro pájaro be... digo, Grulla Articulada de Repetición Periódica en la habitación que afecta esta área.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_02_002 AkEvent]
+Subtitles[0]=(Text="Creo que deberás investigar cada centímetro de la habitación si quieres pasar.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_02_003 AkEvent]
+Subtitles[0]=(Text="Si te soy totalmente sincero... no sé por qué monté todo esto.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_03_001 AkEvent]
+Subtitles[0]=(Text="Vaya, parece que el temporizador de Desmond no dura tanto como necesitas.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_03_002 AkEvent]
+Subtitles[0]=(Text="Creo que puedes usar esa batería.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_03_003 AkEvent]
+Subtitles[0]=(Text="Si hubiera algo que lo pulsara por ti...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_03_004 AkEvent]
+Subtitles[0]=(Text="No menees la batería cual batido de chocolate. En serio. No.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_04_001 AkEvent]
+Subtitles[0]=(Text="Oh, por si no lo habías visto, en el techo hay un interruptor eléctrico que hay que pulsar.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_04_002 AkEvent]
+Subtitles[0]=(Text="Me cuesta creer que aún no consiga acordarme...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_05_001 AkEvent]
+Subtitles[0]=(Text="A veces tengo la extraña sensación de que son seres conscientes.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_05_002 AkEvent]
+Subtitles[0]=(Text="Hice mi primer prototipo cuando tenía tu edad.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_05_006 AkEvent]
+Subtitles[0]=(Text="¿Ves esa habitación llena de cosas importantes? Pues teniendo en cuenta tu currículum, te urjo a que no vayas por allí.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_05_007 AkEvent]
+Subtitles[0]=(Text="¿No es extraordinario lo útiles que pueden llegar a ser los interruptores?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_05_008 AkEvent]
+Subtitles[0]=(Text="¿Sabes quién inventó los interruptores? ¡Lo \"miraré\"! Cuando consiga salir e ir \"arriba\"...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_05_009 AkEvent]
+Subtitles[0]=(Text="Que mires hacia arriba.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_05_010 AkEvent]
+Subtitles[0]=(Text="Ya sé que tarde o temprano lo ibas a descubrir, pero... ejem, arriba.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_05_011 AkEvent]
+Subtitles[0]=(Text="¿Te has dado cuenta de que allí hay una puerta, verdad?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_05_012 AkEvent]
+Subtitles[0]=(Text="¿Has visto que maravilla de puerta? ¡Ja! ¡JA! Te la recomiendo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_06_001 AkEvent]
+Subtitles[0]=(Text="Tengo muy buenos recuerdos de esta habitación de cuando tenía tu edad. Era el salón. En fin, serafín.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_06_002 AkEvent]
+Subtitles[0]=(Text="A lo mejor deberías poner algo allí.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_06_003 AkEvent]
+Subtitles[0]=(Text="¡Oh! ¡Bien hecho!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_06_004 AkEvent]
+Subtitles[0]=(Text="Sabes, puse esas cintas por un motivo. Piénsalo un poco.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_06_005 AkEvent]
+Subtitles[0]=(Text="¡Ingeniería inversa en estado puro!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_07_001 AkEvent]
+Subtitles[0]=(Text="Si te ayuda, que sepas que allí abajo hay tres cajas fuertes.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_07_002 AkEvent]
+Subtitles[0]=(Text="Vas a necesitar esa batería de la dimensión pesada.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_07_003 AkEvent]
+Subtitles[0]=(Text="¿A que mola la geometría?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_07_004 AkEvent]
+Subtitles[0]=(Text="No dejes que las emociones se interpongan ante una solución obviamente lógica.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_07_005 AkEvent]
+Subtitles[0]=(Text="El número tres es un número primo de Mersenne, el único número primo triangular y el número de cajas fuertes que necesitas en las cintas de allí abajo.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_07_006 AkEvent]
+Subtitles[0]=(Text="Aquí hay un perímetro de zona limpia. Nada de ensuciarla con objetos.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_07_007 AkEvent]
+Subtitles[0]=(Text="Tendrás que encontrar otra manera.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_07_008 AkEvent]
+Subtitles[0]=(Text="¡Oh! ¡Justo a tiempo!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_07_009 AkEvent]
+Subtitles[0]=(Text="Alinéalas.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_08_001 AkEvent]
+Subtitles[0]=(Text="Ay, sí. Lamentablemente esta área se inundó hace unas semanas. Tendrás que ir por otro lado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_08_002 AkEvent]
+Subtitles[0]=(Text="¡Vale! Cruza por aquí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_08_003 AkEvent]
+Subtitles[0]=(Text="Eso.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_08_004 AkEvent]
+Subtitles[0]=(Text="Todo lo que puedo hacer es mirar... ¡Menuda frustración!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_08_005 AkEvent]
+Subtitles[0]=(Text="¡Todo lo que baja, sube! No, espera... creo que esto no iba así.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_08_006 AkEvent]
+Subtitles[0]=(Text="Puede parecer como un paso atrás, pero saltar abajo podría ayudarte tremendamente.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_08_007 AkEvent]
+Subtitles[0]=(Text="Si consigues acercar esa caja fuerte, podrías saltar desde ella.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_08_008 AkEvent]
+Subtitles[0]=(Text="¡Bien pensado!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_08_009 AkEvent]
+Subtitles[0]=(Text="¿Seguro que quieres hacer eso?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_08_010 AkEvent]
+Subtitles[0]=(Text="Bien jugado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_09_001 AkEvent]
+Subtitles[0]=(Text="¡¿ACASO... NO... ME... OYES?!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_09_002 AkEvent]
+Subtitles[0]=(Text="¡Casi olvido lo fuerte que pueden sonar estos cacharros!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_09_003 AkEvent]
+Subtitles[0]=(Text="Ahhh...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_09_004 AkEvent]
+Subtitles[0]=(Text="¿Eh, te acuerdas de esos contenedores eléctricos? Sí, bueno, siguen haciendo lo mismo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_09_005 AkEvent]
+Subtitles[0]=(Text="Esta área también se ha inundado. Qué extraño...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_09_006 AkEvent]
+Subtitles[0]=(Text="De acuerdo, presta atención.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_09_007 AkEvent]
+Subtitles[0]=(Text="Tendrás que mantener su impulso hacia adelante utilizando la dimensión de anti-gravedad.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_09_008 AkEvent]
+Subtitles[0]=(Text="Puedes extender el arco de tus lanzamientos gracias a la dimensión de anti-gravedad, ¿lo sabías?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_09_009 AkEvent]
+Subtitles[0]=(Text="¡Eso sí es un buen lanzamiento!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_09_010 AkEvent]
+Subtitles[0]=(Text="No ha estado mal.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_001 AkEvent]
+Subtitles[0]=(Text="Ah, sí, rayos láser.")
+Subtitles[1]=(Text="Conocí a un tipo que construyó un puntero láser cuyo punto focal era la millonésima parte de un centímetro.",Time=2.0f)
+Subtitles[2]=(Text="De lo más impresionante, ¡cortaba todo tipo de materiales como si fueran de papel! ¿Por qué crees que no tiene dedos?",Time=9.0f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_c_10_002 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_003 AkEvent]
+Subtitles[0]=(Text="¡Oh!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_004 AkEvent]
+Subtitles[0]=(Text="¡Qué buena!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_005 AkEvent]
+Subtitles[0]=(Text="Ah...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_006 AkEvent]
+Subtitles[0]=(Text="¡Bien hecho!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_007 AkEvent]
+Subtitles[0]=(Text="Oooh...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_008 AkEvent]
+Subtitles[0]=(Text="Sí...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_009 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_010 AkEvent]
+Subtitles[0]=(Text="¡Ja!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_011 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_011_old AkEvent]
+Subtitles[0]=(Text="")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_012 AkEvent]
+Subtitles[0]=(Text="¡Ooh!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_013 AkEvent]
+Subtitles[0]=(Text="Vaya, qué pena.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_014 AkEvent]
+Subtitles[0]=(Text="¡Espléndido!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_015 AkEvent]
+Subtitles[0]=(Text="Qué lástima.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_016 AkEvent]
+Subtitles[0]=(Text="¡Eso estuvo genial! Eh... digo, podría mejorarse.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_10_017 AkEvent]
+Subtitles[0]=(Text="Va en contra de todos mis principios chivarte esto, pero bueno, mira hacia arriba.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_10_018 AkEvent]
+Subtitles[0]=(Text="Date la vuelta. Allí encontrarás un interruptor para el convertidor eléctrico.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_11_001 AkEvent]
+Subtitles[0]=(Text="Bueno, al menos podemos decir que te estás acercando al último generador.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_11_002 AkEvent]
+Subtitles[0]=(Text="Resulta inquietante que esta área también esté inundada.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_11_003 AkEvent]
+Subtitles[0]=(Text="Creo que deberías coger una de esas.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_11_004 AkEvent]
+Subtitles[0]=(Text="Cabeza \"alta\", chico.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_11_005 AkEvent]
+Subtitles[0]=(Text="El convertidor eléctrico debería estar allí arriba.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_11_006 AkEvent]
+Subtitles[0]=(Text="Es como decir chistes buenos.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_11_007 AkEvent]
+Subtitles[0]=(Text="Tienes que encontrar el momento exacto.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_12_001 AkEvent]
+Subtitles[0]=(Text="¡Ajá! Veo que ya has llegado al centro de mantenimiento de los BOT-bot. Perfecto.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_12_002 AkEvent]
+Subtitles[0]=(Text="Como tantas cosas en esta vida, mantener el impulso es importante.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_12_003 AkEvent]
+Subtitles[0]=(Text="Vale... Esto es ligeramente más complicado, pero al menos has demostrado ser semi-capaz.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_12_004 AkEvent]
+Subtitles[0]=(Text="Yo no me pondría en su camino.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_12_005 AkEvent]
+Subtitles[0]=(Text="Los programé para que sólo realizaran ciertas tareas, pero a veces tengo la extraña impresión de que han desarrollado más habilidades.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_12_006 AkEvent]
+Subtitles[0]=(Text="¡A la siguiente habitación!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_12_007 AkEvent]
+Subtitles[0]=(Text="¿Te gustan las alturas? A mí me fascinan.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_12_008 AkEvent]
+Subtitles[0]=(Text="Quizás deberías apreciar las alturas tanto como yo. Ejem... pista.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_13_001 AkEvent]
+Subtitles[0]=(Text="A ver, procesa esta información: tanto tú como la caja fuerte tenéis que estar en el otro lado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_13_002 AkEvent]
+Subtitles[0]=(Text="¡Esto sí que es encajar!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_13_003 AkEvent]
+Subtitles[0]=(Text="¡Una de las mejores maneras de viajar! Al menos una de las más complejas científicamente...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_13_004 AkEvent]
+Subtitles[0]=(Text="No lo estás haciendo mal... por ser tú.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_14_001 AkEvent]
+Subtitles[0]=(Text="Es un poco como surfear. ¿O en este caso, sofear?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_14_002 AkEvent]
+Subtitles[0]=(Text="Tendrás que iniciar la secuencia de arranque de la habitación.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_14_003 AkEvent]
+Subtitles[0]=(Text="¡Cuidado, este es grande!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_14_004 AkEvent]
+Subtitles[0]=(Text="Recuerda que aquí tienes acceso a la dimensión pesada.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_14_005 AkEvent]
+Subtitles[0]=(Text="Estuvo cerca.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_14_006 AkEvent]
+Subtitles[0]=(Text="Con cuidaaado...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_14_007 AkEvent]
+Subtitles[0]=(Text="No fue terrible del todo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_15_001 AkEvent]
+Subtitles[0]=(Text="¿Y bien, qué vas a hacer?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_15_002 AkEvent]
+Subtitles[0]=(Text="Espero que sea la decisión adecuada.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_15_003 AkEvent]
+Subtitles[0]=(Text="¿Estás totalmente seguro de tu decisión?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_15_004 AkEvent]
+Subtitles[0]=(Text="Un consejo: busca dónde están todas las otras baterías.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_15_005 AkEvent]
+Subtitles[0]=(Text="Te quedan dos, creo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_15_006 AkEvent]
+Subtitles[0]=(Text="Una más.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_15_007 AkEvent]
+Subtitles[0]=(Text="Mmm. Parece que algo ha fallado con la configuración de velocidad.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_15_008 AkEvent]
+Subtitles[0]=(Text="¿Intimida un poco, verdad?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_15_009 AkEvent]
+Subtitles[0]=(Text="Estas puertas sólo se abren ante los BOT-bots.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_15_010 AkEvent]
+Subtitles[0]=(Text="Lo único que puedo hacer es mirar. ¡Qué rabia me da!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_15_011 AkEvent]
+Subtitles[0]=(Text="Vaya, menudo caminito, ¿eh?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_16_001 AkEvent]
+Subtitles[0]=(Text="Revisar tus pasos: es lo que la gente suele hacer, ¿o no?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_16_002 AkEvent]
+Subtitles[0]=(Text="Pues yo... estaba en el sector de nuevas tecnologías...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_16_003 AkEvent]
+Subtitles[0]=(Text="Y... y entonces...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_16_004 AkEvent]
+Subtitles[0]=(Text="Argh...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_16_005 AkEvent]
+Subtitles[0]=(Text="¡Juas! Deberías ver lo que soy capaz de hacer con una tostadora y cuatro clips. No, espera... ¡tres clips!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_16_006 AkEvent]
+Subtitles[0]=(Text="¡Esto sí que es un salto de fe!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_16_007 AkEvent]
+Subtitles[0]=(Text="Asegúrate de mirar más de cerca el otro lado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_16_007a AkEvent]
+Subtitles[0]=(Text="")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_16_008 AkEvent]
+Subtitles[0]=(Text="Tengo la impresión de que me estoy olvidando de algo muy importante.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_16_009 AkEvent]
+Subtitles[0]=(Text="Vaya, menudo problemón, ¿no?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_19_001 AkEvent]
+Subtitles[0]=(Text="Los sentimientos nunca han sido mi fuerte, pero ahora mismo me inunda una temible sensación de pavor.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_19_002 AkEvent]
+Subtitles[0]=(Text="Esto ciertamente pone las cosas bajo una nueva luz.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_19_003 AkEvent]
+Subtitles[0]=(Text="Los BOT-bots podrían serte útiles.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_19_004 AkEvent]
+Subtitles[0]=(Text="Creo que ya casi me vuelve la memoria.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_19_005 AkEvent]
+Subtitles[0]=(Text="Y hay algo que no deberías estar haciendo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_19_006 AkEvent]
+Subtitles[0]=(Text="Creo que el generador de este sector está en el otro lado de este transformador giratorio.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_19_007 AkEvent]
+Subtitles[0]=(Text="Yo no me acercaría mucho, una vez ese cachivache casi me tira por la ventana.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_19_008 AkEvent]
+Subtitles[0]=(Text="Ya sabes lo que hay que hacer. Toca encender el alternador.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_c_19_009 AkEvent]
+Subtitles[0]=(Text="Me da que eso no es una buena señal...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_C_19_010 AkEvent]
+Subtitles[0]=(Text="¡Es como un pedal de bicicleta! Sólo que para gigantes...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_001 AkEvent]
+Subtitles[0]=(Text="¡Ah! Así que aquí es donde estaba.")
+Subtitles[1]=(Text="Esto es uno de mis inventos fallidos al que llamé \"Generador de ruido molesto\". Seguro que hay más por estos alrededores.",Time=2.5f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_Collect_01_002 AkEvent]
+Subtitles[0]=(Text="Creo que Ike los robó y los escondió hace tiempo. Le encantan los objetos brillantes.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_003 AkEvent]
+Subtitles[0]=(Text="Parecía estar la mar de bien allí arriba.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_004 AkEvent]
+Subtitles[0]=(Text="MuUuUu.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_005 AkEvent]
+Subtitles[0]=(Text="Me preguntaba dónde lo había metido Ike.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_006 AkEvent]
+Subtitles[0]=(Text="Aunque allí estaba a mejor recaudo...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_007 AkEvent]
+Subtitles[0]=(Text="Qué escondite tan decepcionante.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_008 AkEvent]
+Subtitles[0]=(Text="¡Podías haber pedido permiso! Ay, los críos de hoy en día...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_009 AkEvent]
+Subtitles[0]=(Text="Qué majestuosidad.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_010 AkEvent]
+Subtitles[0]=(Text="Tú, discúlpate.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_011 AkEvent]
+Subtitles[0]=(Text="Bueno, supongo que nos podemos imaginar cómo Ike llegó a poner ese allí arriba. Le encantan las plataformas de compresión.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_012 AkEvent]
+Subtitles[0]=(Text="Em... Intenta beber un vaso de agua cabeza abajo.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_013 AkEvent]
+Subtitles[0]=(Text="Ike es de lo más astuto, ¿verdad? Este ni siquiera lo vi.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_014 AkEvent]
+Subtitles[0]=(Text="Supongo que tener la habilidad de teletransportarse nos lo pondría mucho más fácil.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_015 AkEvent]
+Subtitles[0]=(Text="¡Qué insolencia!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_016 AkEvent]
+Subtitles[0]=(Text="A veces sueño con criar pingüinos. Pensé que te interesaría saberlo.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_017 AkEvent]
+Subtitles[0]=(Text="Hice esto en memoria de Widget I.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_018 AkEvent]
+Subtitles[0]=(Text="A veces me siento así. Particularmente ahora.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_019 AkEvent]
+Subtitles[0]=(Text="¡Ah! ¡Encontraste otro!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_020 AkEvent]
+Subtitles[0]=(Text="Este me hace sentir especial. Aunque ya sé que lo soy.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_021 AkEvent]
+Subtitles[0]=(Text="¿No se supone que tienes que silbar mientras trabajas? ¿Sonreír y toda la pesca?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_022 AkEvent]
+Subtitles[0]=(Text="Ya sé que los críos sonáis así, pero no deja de ponerme los pelos de punta.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_023 AkEvent]
+Subtitles[0]=(Text="¿Por... por qué habré hecho esto?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_024 AkEvent]
+Subtitles[0]=(Text="Suena como mucha de la música actual.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_025 AkEvent]
+Subtitles[0]=(Text="Salud.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_026 AkEvent]
+Subtitles[0]=(Text="¿No te enseñó tu mamá a no comer con la boca abierta?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_027 AkEvent]
+Subtitles[0]=(Text="Es como tener tu propio zoológico. ¿A los niños les gustan los zoos, verdad?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_028 AkEvent]
+Subtitles[0]=(Text="¿Siguen leyendo cómics? A mí me encantaban.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_029 AkEvent]
+Subtitles[0]=(Text="Lo encontraste. Felicidades.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_030 AkEvent]
+Subtitles[0]=(Text="Ike odia las serpientes. Me sorprende que lo haya tomado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_02_001 AkEvent]
+Subtitles[0]=(Text="Oh, sí. Con estas especificaciones deberías ser capaz de construir varios objetos e inventos en el laboratorio al lado de mi oficina.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_02_002 AkEvent]
+Subtitles[0]=(Text="Veo que has encontrado más planos. Vuelve a la sala de invenciones cuando tengas un ratito.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_02_003 AkEvent]
+Subtitles[0]=(Text="No estoy muy seguro de por qué dejé eso allí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_02_004 AkEvent]
+Subtitles[0]=(Text="Creo que este es el último plano de este proyecto. ¡Buen trabajo reuniendo mis ideas descartadas! Peazo urraca.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Curious_01_001 AkEvent]
+Subtitles[0]=(Text="Qué raro.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Curious_01_002 AkEvent]
+Subtitles[0]=(Text="¿Mmm?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Curious_01_003 AkEvent]
+Subtitles[0]=(Text="Interesante.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Curious_01_004 AkEvent]
+Subtitles[0]=(Text="Comprendo...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Cutscene_01_001 AkEvent]
+Subtitles[0]=(Text="Había una vez... ¿Así es como suelen empezar las historias estas, no?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Cutscene_01_002 AkEvent]
+Subtitles[0]=(Text="Una hermana que se compadeció de su brillante, pródigo e increíble hermano. Por alguna razón absurda se le metió en la cabeza que él debía de sentirse muy solo, o al menos eso es lo que dice.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Cutscene_01_003 AkEvent]
+Subtitles[0]=(Text="Así pues, una tarde de viernes especialmente productiva, la hermana fue a buscar a su hijo a la academia de chicos Elwood y dejó al pesado del crío en el portal de mi... digo, de su hermano.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Cutscene_01_004 AkEvent]
+Subtitles[0]=(Text="Desde entonces, tú... ay, el niño, visitó la mansión Quadwrangle varias veces.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Cutscene_01_005 AkEvent]
+Subtitles[0]=(Text="Cada visita venía marcada por la increíble entrada del hermano, que, de hecho, era un profesor e inventor de gran intelecto.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Cutscene_01_006 AkEvent]
+Subtitles[0]=(Text="Cada vez iba mostrándole inventos mejores y de tecnología más puntera.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Cutscene_01_007 AkEvent]
+Subtitles[0]=(Text="El chiquillo esperaba con ansias el último de los artilugios del profesor, sólo que esta vez, la más cautivadora de las visitas empezó un poco diferente.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Cutscene_05_001 AkEvent]
+Subtitles[0]=(Text="Y así termina la historia.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Cutscene_05_002 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Cutscene_05_003 AkEvent]
+Subtitles[0]=(Text="¡Es broma! Esto es lo que sucedió. Tampoco es que mejore mucho la cosa...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_001 AkEvent]
+Subtitles[0]=(Text="Primero activa ese interruptor. Confía en mí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_002 AkEvent]
+Subtitles[0]=(Text="Parece que el camino normal ha quedado inundado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_003 AkEvent]
+Subtitles[0]=(Text="Tendrás que encontrar otro camino para llegar allí arriba.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_004 AkEvent]
+Subtitles[0]=(Text="¿Por qué no usas uno de los trucos que has aprendido hasta ahora?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_005 AkEvent]
+Subtitles[0]=(Text="A lo mejor deberías tomarte las cosas con calma.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_006 AkEvent]
+Subtitles[0]=(Text="No me gusta nada meterte aquí, pero necesito salir de este lugar.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_007 AkEvent]
+Subtitles[0]=(Text="¡Mi memoria está volviendo! Que sepas que estás muy cerca de donde estaba yo antes de que todo esto sucediera.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_008 AkEvent]
+Subtitles[0]=(Text="¿Qué hace Desmond aquí?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_009 AkEvent]
+Subtitles[0]=(Text="Mmm, eso no parece muy estable.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_010 AkEvent]
+Subtitles[0]=(Text="¡Juas! No, no lo era.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_011 AkEvent]
+Subtitles[0]=(Text="No... ¡No te pongas nervioso! En... en... encontraré la manera de solucionarlo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_012 AkEvent]
+Subtitles[0]=(Text="Tu madre me mata...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_013 AkEvent]
+Subtitles[0]=(Text="¡DIMENSIÓN LIGERA! ¡LIGERA! ¡LIGERA! ¡LIGERA!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_001 AkEvent]
+Subtitles[0]=(Text="Bueno, parece que estás vivo, qué bien.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_002 AkEvent]
+Subtitles[0]=(Text="Este es el corazón de la mansión. ¡No rompas nada!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_003 AkEvent]
+Subtitles[0]=(Text="¡Eso es! Estoy totalmente seguro de que estaba aquí cuando quedé atrapado en esta dimensión alternativa.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_004 AkEvent]
+Subtitles[0]=(Text="Si crees que el guante IDS que llevas es un artilugio impresionante, échale una ojeada a esto.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_005 AkEvent]
+Subtitles[0]=(Text="Esto no es más que el exterior de un dispositivo interdimensional solo que mucho, muchísimo más grande.")
+Subtitles[1]=(Text="Como no se me ocurría nada mejor, lo llamo Súper IDS.",Time=5.5f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_D_02_006 AkEvent]
+Subtitles[0]=(Text="A diferencia del guante y el receptáculo, cuya área de efecto sólo abarca una o dos habitaciones, éste permite manipular una área mucho  mayor. ")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_007 AkEvent]
+Subtitles[0]=(Text="Qué raro... no hay ninguna batería IDS en la máquina. Tendrás que encontrar alguna.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_008 AkEvent]
+Subtitles[0]=(Text="Para evitar que el aparato se encienda accidentalmente, le construí un mecanismo con dos interruptores.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_009 AkEvent]
+Subtitles[0]=(Text="Uhh... Hay algo raro ahí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_010 AkEvent]
+Subtitles[0]=(Text="Espera que piense.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_011 AkEvent]
+Subtitles[0]=(Text="Estoy empezando a recordar algo importante.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_012 AkEvent]
+Subtitles[0]=(Text="¡Oh... espera!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_013 AkEvent]
+Subtitles[0]=(Text="¡Lo recuerdo! Estaba trabajando en el Súper IDS cuando...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_014 AkEvent]
+Subtitles[0]=(Text="¡No, no, no, no, no, no! ¡No hagas eso!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_015 AkEvent]
+Subtitles[0]=(Text="Ups... esto no puede acabar bien.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_dialog_windowbreak AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Dir_01_001 AkEvent]
+Subtitles[0]=(Text="Vale, gira a tu derecha.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Dir_01_002 AkEvent]
+Subtitles[0]=(Text="Ve a la derecha.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Dir_01_003 AkEvent]
+Subtitles[0]=(Text="Gira a la izquierda.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Dir_01_004 AkEvent]
+Subtitles[0]=(Text="Ve a la izquierda.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Dir_01_005 AkEvent]
+Subtitles[0]=(Text="Sigue recto.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Dir_01_006 AkEvent]
+Subtitles[0]=(Text="Sigue andando todo recto.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Dir_01_007 AkEvent]
+Subtitles[0]=(Text="Mira hacia arriba.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Dir_01_008 AkEvent]
+Subtitles[0]=(Text="Mira hacia abajo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Dir_01_009 AkEvent]
+Subtitles[0]=(Text="Mira a tu izquierda.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Dir_01_010 AkEvent]
+Subtitles[0]=(Text="Mira a tu derecha.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Dir_01_011 AkEvent]
+Subtitles[0]=(Text="Bien, gira a la izquierda.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Dir_01_012 AkEvent]
+Subtitles[0]=(Text="¡Sube por allí!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Dir_01_013 AkEvent]
+Subtitles[0]=(Text="Gira a la derecha.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Frustrated_01_001 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Frustrated_01_002 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Frustrated_02_001 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Frustrated_02_002 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Frustrated_02_003 AkEvent]
+Subtitles[0]=(Text="¡Uuugh!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Frustrated_02_004 AkEvent]
+Subtitles[0]=(Text="¿Por qué...?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Frustrated_02_005 AkEvent]
+Subtitles[0]=(Text="¿De verdad?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Frustrated_02_006 AkEvent]
+Subtitles[0]=(Text="¿En serio?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_00_001 AkEvent]
+Subtitles[0]=(Text="Lo último que recuerdo es estar en el sector de nuevas tecnologías y... nada más.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_00_002 AkEvent]
+Subtitles[0]=(Text="Creo que el mecanismo de seguridad se activó por accidente.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_00_003 AkEvent]
+Subtitles[0]=(Text="Por desgracia, la puerta principal seguirá en cerrado automático hasta que devuelvas la energía.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_00_004 AkEvent]
+Subtitles[0]=(Text="Pulsa el interruptor de allí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_01_001 AkEvent]
+Subtitles[0]=(Text="Debo advertirte de algo. Por culpa de mi último invento, he tenido que hacer ciertos, eh, ajustes en la casa desde la última vez que irrump...")
+Subtitles[1]=(Text="digo, que viniste.",Time=8.5f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_Hall_01_002 AkEvent]
+Subtitles[0]=(Text="Por suerte, mi invento rebosa de ingenio y te ayudará a cruzar las zonas que no están preparadas para niños.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_02_001 AkEvent]
+Subtitles[0]=(Text="")
+Subtitles[1]=(Text="Uh, bueno... como el guante es un prototipo, sólo puede acceder a unas pocas dimensiones y se tiene que usar cerca del receptor.",Time=0.0f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_hall_02_002 AkEvent]
+Subtitles[0]=(Text="Ya entenderás a lo que me refiero.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_03_001 AkEvent]
+Subtitles[0]=(Text="Como ya he mencionado, las brechas dimensionales de la mansión se amplían con la energía estabilizante del receptáculo IDS y las baterías.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_03_002 AkEvent]
+Subtitles[0]=(Text="Esto es lo que te permite cruzar dimensiones cuando llevas el guante IDS.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_05_001 AkEvent]
+Subtitles[0]=(Text="Bueno, no he hablado mucho de dónde me encuentro, pero parece un tipo de limbo...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_05_002 AkEvent]
+Subtitles[0]=(Text="Creo que voy a salir a explorar y a ver qué se cuece.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_07_001 AkEvent]
+Subtitles[0]=(Text="Algunas dimensiones están fuertemente ligadas, como la normal donde nos encontramos ahora mismo y las dimensiones ligera y pesada.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_07_002 AkEvent]
+Subtitles[0]=(Text="Eso incrementa las posibilidades de que exista una brecha dimensional hacia ellas en el mismo lugar.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_08_001 AkEvent]
+Subtitles[0]=(Text="No hay más que montañas y hoyos llenos de todo tipo de objetos...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_08_002 AkEvent]
+Subtitles[0]=(Text="¡No, no digo donde estás tú! Me refiero aquí, en este lugar tan confuso.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_08_003 AkEvent]
+Subtitles[0]=(Text="¿Esto son caramelos? Tienen como... pelusilla. Puaj, pues qué bien...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_10_001 AkEvent]
+Subtitles[0]=(Text="Este lugar es fascinante. Entre esto y que no tengo ni repajolera idea de cómo llegué aquí, estoy bien desconcertado.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_10_002 AkEvent]
+Subtitles[0]=(Text="Está muy oscuro. Bueno, no, más bien crepuscular.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_10_003 AkEvent]
+Subtitles[0]=(Text="Oh... ¿Qué diablos es esto? Huele... raro.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_12_001 AkEvent]
+Subtitles[0]=(Text="Ahora veo un hoyo enorme... ¿lleno de llaves?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_12_002 AkEvent]
+Subtitles[0]=(Text="Anda, y este tiene gafas de sol. Uy, qué chulas son estas. ¡Me las pido!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_14_001 AkEvent]
+Subtitles[0]=(Text="Creo que te acercas al generador de esta zona. Sigue un poco más.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_14_002 AkEvent]
+Subtitles[0]=(Text="¡Tengo la cabeza como si me hubieran dado un buen mamporro y sigo sin recuperar la memoria! Juas, maravilloso.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_15_001 AkEvent]
+Subtitles[0]=(Text="La habitación del generador de esta zona está justo enfrente.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_15_002 AkEvent]
+Subtitles[0]=(Text="Míratelo por el lado positivo, lo único que puede pasar es que falles estrepitosamente.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_16_001 AkEvent]
+Subtitles[0]=(Text="¿No ha sido tan grave, verdad?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_17_001 AkEvent]
+Subtitles[0]=(Text="Con un poco de suerte, no será muy difícil llegar al siguiente generador.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_17_002 AkEvent]
+Subtitles[0]=(Text="Y quién sabe, a lo mejor consigo encontrar una salida. Esto está alcanzando límites ridículos.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_19_001 AkEvent]
+Subtitles[0]=(Text="Tú mantienes la misma estabilidad dimensional. Es decir, tus propiedades no cambian.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_19_002 AkEvent]
+Subtitles[0]=(Text="He podido mantener varios de mis inventos anclados en nuestra dimensión normal. Es por eso que la tecnología Quadwrangle no cambia.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_20_001 AkEvent]
+Subtitles[0]=(Text="¿Sabes qué es lo que hecho de menos? Los teclados-guitarra.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_20_002 AkEvent]
+Subtitles[0]=(Text="Hacen que toda música suene mejor. En fin, se me va la olla.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_20_003 AkEvent]
+Subtitles[0]=(Text="¿No has estado ya en este pasillo?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_20_004 AkEvent]
+Subtitles[0]=(Text="Se me hacen todos iguales.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_22_001 AkEvent]
+Subtitles[0]=(Text="Ahora veo una pila enorme de teléfonos móviles.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_22_002 AkEvent]
+Subtitles[0]=(Text="Los mensajes que os escribís los jóvenes me hacen llorar sangre. ¿Acaso cuesta tanto escribir bien?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_23_001 AkEvent]
+Subtitles[0]=(Text="Puedo inventar un guante que tergiversa totalmente las leyes de la mecánica cuántica.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_23_002 AkEvent]
+Subtitles[0]=(Text="Pero aparentemente soy incapaz de ver una peli en línea a pesar de estar rodeado de teléfonos móviles.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_24_001 AkEvent]
+Subtitles[0]=(Text="Teniendo en cuenta que esto es el fascinante mundo de las cosas perdidas, diría que estoy oficialmente perdido.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_24_002 AkEvent]
+Subtitles[0]=(Text="Sin memoria a corto plazo. Atrapado en una dimensión alternativa. Un día glorioso.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_24_003 AkEvent]
+Subtitles[0]=(Text="Ugh...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_25_001 AkEvent]
+Subtitles[0]=(Text="¿Estás de coña? ¿Chicles?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_25_002 AkEvent]
+Subtitles[0]=(Text="Puaj, creo que he pisado uno.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_27_001 AkEvent]
+Subtitles[0]=(Text="Hay nubes. ¿Lo había mencionado ya?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_27_002 AkEvent]
+Subtitles[0]=(Text="Aunque ahora que me fijo.... ¿Son pelusas?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_30_001 AkEvent]
+Subtitles[0]=(Text="Cuando tenía tu edad, tenía que construir mis propios ordenadores si quería que fueran más pequeños que una nevera.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_30_002 AkEvent]
+Subtitles[0]=(Text="A vosotros os tienen totalmente consentidos.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_31_001 AkEvent]
+Subtitles[0]=(Text="¡Oh! Ike acaba de mandarme un mensaje a través de la conexión segura.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_31_002 AkEvent]
+Subtitles[0]=(Text="Dice que ha encontrado tu maleta en el recibidor principal y quería disculparse por comerse tus calzoncillos.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_32_001 AkEvent]
+Subtitles[0]=(Text="A veces mi hermana se mete demasiado en mis asuntos. Si quisiera visitas ya lo habría dicho.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_32_002 AkEvent]
+Subtitles[0]=(Text="Ahora no sólo tengo que preocuparme por mí; también me veo forzado a preocuparme por ti.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_33_001 AkEvent]
+Subtitles[0]=(Text="Ya sé que todo esto es un poco inconveniente, pero hombre precavido vale por dos,")
+Subtitles[1]=(Text="sobretodo cuando se utiliza más energía en cinco minutos que la que se produce en un año en la Presa Hoover.",Time=5.0f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_Hall_34_001 AkEvent]
+Subtitles[0]=(Text="Eso fue suficiente... creo.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_34_002 AkEvent]
+Subtitles[0]=(Text="Siguiente.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_35_001 AkEvent]
+Subtitles[0]=(Text="Por fortuna, o más bien por desgracia, te acercas al laboratorio de nuevas tecnologías.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_35_002 AkEvent]
+Subtitles[0]=(Text="A lo mejor encontrarás alguna pista que me ayude a deshacer este embrollo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_36_001 AkEvent]
+Subtitles[0]=(Text="")
+Subtitles[1]=(Text="¡Apuesto a que querías que hiciera esto! La risa malvada de científico loco, digo.",Time=2.75f)
+bMature=False""
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_Hall_36_002 AkEvent]
+Subtitles[0]=(Text="¡Vale, ya paro, ya paro!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_37_001 AkEvent]
+Subtitles[0]=(Text="Ahora mismo has llegado más lejos dentro de la mansión que cualquier otro familiar en más de dos décadas.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_37_002 AkEvent]
+Subtitles[0]=(Text="Es algo que no volverá a pasar en mucho tiempo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_38_001 AkEvent]
+Subtitles[0]=(Text="Algo me tiene que haber ocurrido que me transportase a esta dimensión paralela. Ojalá recordara qué.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_38_002 AkEvent]
+Subtitles[0]=(Text="Ya se me está pasando el dolor de cabeza, aunque sigo teniendo un chichón enorme.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_39_001 AkEvent]
+Subtitles[0]=(Text="¡AAAH! ¡CUIDADO! ¡Ja, ja! Era broma.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_39_002 AkEvent]
+Subtitles[0]=(Text="Me siento un poco mejor ahora.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_40_001 AkEvent]
+Subtitles[0]=(Text="Hace tiempo diseñé un tipo de fresas sin semillas. Odio cuando se quedan entre los dientes.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_40_002 AkEvent]
+Subtitles[0]=(Text="Podría comerme una fresa ahora mismo. Aunque no una que encontrara aquí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_40_003 AkEvent]
+Subtitles[0]=(Text="Seguro que estaría llena de pelusilla, como la que hay dentro de los bolsillos.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_42_001 AkEvent]
+Subtitles[0]=(Text="Voy a serte sincero. Estoy sin-cero gracia. ¡Ja, ja! No, ahora en serio, estoy un poco frustrado con esta situación.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_42_002 AkEvent]
+Subtitles[0]=(Text="Francamente, tener un intelecto tan grande como el mío y no ser capaz de recordar algo reciente es inaceptable.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_43_001 AkEvent]
+Subtitles[0]=(Text="La emulciencia es una sustancia increíble.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_43_002 AkEvent]
+Subtitles[0]=(Text="Además de ser una fuente de energía, es superconductora y amplifica las frecuencias energéticas.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_43_003 AkEvent]
+Subtitles[0]=(Text="Una pequeña cantidad mezclada con extracto dimensional puede proveer energía suficiente a los receptáculos del IDS.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_44_001 AkEvent]
+Subtitles[0]=(Text="Esta área de la mansión es una pasada, ¿a que sí?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_44_002 AkEvent]
+Subtitles[0]=(Text="Nada como nuestra querida ingenuidad humana y la determinación para terminar un trabajo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_44_003 AkEvent]
+Subtitles[0]=(Text="Eso y los robots.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_45_001 AkEvent]
+Subtitles[0]=(Text="¡Anda! Acabo de acordarme de que hoy hubo algunos temblores de tierra. ¡Esto es un recuerdo nuevo!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_45_002 AkEvent]
+Subtitles[0]=(Text="Al fin parece que estoy empezando a recuperar la memoria.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_46_001 AkEvent]
+Subtitles[0]=(Text="Hay demasiadas áreas inundadas en este sector. No me había dado cuenta de que había llegado tan lejos.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_46_002 AkEvent]
+Subtitles[0]=(Text="Se deben de haber roto algunas de las tuberías principales de emulciencia.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_46_003 AkEvent]
+Subtitles[0]=(Text="Por cierto, no te recomiendo beberla. La emulciencia no es potable. Créeme.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_47_001 AkEvent]
+Subtitles[0]=(Text="Mmm, me preocupa el exceso de emulciencia fuera de sus tuberías.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_47_002 AkEvent]
+Subtitles[0]=(Text="Supongo que mientras no utilices ningún dispositivo incendiario no te pasará nada.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_48_001 AkEvent]
+Subtitles[0]=(Text="Sé que las áreas inundadas tienen... algo que ver... con algo...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_48_002 AkEvent]
+Subtitles[0]=(Text="Tengo la hipótesis de que los temblores rompieron las tuberías principales del sistema de distribución de emulciencia.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_49_001 AkEvent]
+Subtitles[0]=(Text="Creo que no estás muy lejos del generador.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_49_002 AkEvent]
+Subtitles[0]=(Text="En serio, se me está cayendo el pelo por segundo. Qué suerte que el bigote no caiga.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_50_001 AkEvent]
+Subtitles[0]=(Text="Qué irónico estar en la dimensión paralela de las cosas perdidas, cuando yo he perdido claramente el control de la situación.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_51_001 AkEvent]
+Subtitles[0]=(Text="No consigo quedarme tranquilo, y no tiene nada que ver contigo y con tu afán de destruir mis cosas.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_51_002 AkEvent]
+Subtitles[0]=(Text="Hay algo más que aún no he conseguido averiguar.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_52_001 AkEvent]
+Subtitles[0]=(Text="¡Esto debería servir! Con un poco de suerte, la mansión ya no estará en estado de cierre por emergencia.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_53_001 AkEvent]
+Subtitles[0]=(Text="Eh, has encontrado algo. Intenta no romper mucho.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hub_01_001 AkEvent]
+Subtitles[0]=(Text="¡No estoy seguro de que comprendas cuán frustrante es tener un intelecto de tal capacidad pero no ser capaz de recordar lo que acaba de pasar!")
+Subtitles[1]=(Text="¿Porque acaba de pasar, no?",Time=8.5f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_Hub_01_002 AkEvent]
+Subtitles[0]=(Text="Si te diriges a mi oficina, arriba a la izquierda, podrás reiniciar la red eléctrica de la mansión.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hub_01_003 AkEvent]
+Subtitles[0]=(Text="Usa ese interruptor. Tendría que ser ese...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hub_01_004 AkEvent]
+Subtitles[0]=(Text="Vaya, pues no funcionó tan bien como pensaba. Tendrás que activar los generadores de cada área para salir del estado de emergencia.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hub_01_005 AkEvent]
+Subtitles[0]=(Text="Ojalá pudieras ver mi expresión facial actual. Pista: no estoy muy contento.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_01_005b AkEvent]
+Subtitles[0]=(Text="Anda... llévate el guante de la caja contigo.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hub_01_006 AkEvent]
+Subtitles[0]=(Text="Lo que tienes en las manos es un prototipo del dispositivo Interfaz Dimensional de Sustitución, IDS para los amigos.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_01_006b AkEvent]
+Subtitles[0]=(Text="Es uno de mis últimos inventos que seguro te echará una mano. ¿Lo pillas? Como es un guante...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hub_01_007 AkEvent]
+Subtitles[0]=(Text="Uno de los temas que mi familia lleva generaciones estudiando es el de las brechas interdimensionales.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hub_01_008 AkEvent]
+Subtitles[0]=(Text="He podido crear una fuente de energía que canaliza suficiente potencia a una de estas brechas agrandándola y pudiendo así cruzar al otro lado.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hub_01_009 AkEvent]
+Subtitles[0]=(Text="Normalmente llevo un dispositivo IDS, pero no sé dónde tengo las manos y mucho menos el resto de mi cuerpo, así que no veo muy bien cómo ayudarte.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hub_01_010 AkEvent]
+Subtitles[0]=(Text="Iba a recompensarte por no romper eso, pero claro, tenías que estropearlo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hub_01_011 AkEvent]
+Subtitles[0]=(Text="Venga, arreando que es gerundio. ¡Que los generadores de cada sector no van a reiniciarse solitos!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hub_01_012 AkEvent]
+Subtitles[0]=(Text="Te lo dije. Ve a la ala azul.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_01_012b AkEvent]
+Subtitles[0]=(Text="Está allí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_01_012c AkEvent]
+Subtitles[0]=(Text="Está en el piso inferior.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hub_01_013 AkEvent]
+Subtitles[0]=(Text="El guante no es más que un mero prototipo, así que sólo puede acceder a unas pocas dimensiones y se tiene que usar cerca del receptor.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hub_01_014 AkEvent]
+Subtitles[0]=(Text="Las brechas dimensionales en la mansión se magnifican con la energía estabilizadora de otra tecnología Quadwrangle:")
+Subtitles[1]=(Text="el receptáculo IDS y las baterías. Esto es lo que te permite cruzar dimensiones cuando llevas el guante IDS.",Time=7.5f)
+bMature=False""
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_Hub_01_015 AkEvent]
+Subtitles[0]=(Text="Si consigues acceder al generador de cada ala, quizás podamos quitar el estado de emergencia de la casa.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hub_01_016 AkEvent]
+Subtitles[0]=(Text="Parece que el interruptor ha abierto el ala azul. Supongo que puedes empezar allí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_01_017 AkEvent]
+Subtitles[0]=(Text="¿No tienes nada mejor que hacer?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_01_018 AkEvent]
+Subtitles[0]=(Text="¿Es que tienes que tocarlo todo?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_02_001 AkEvent]
+Subtitles[0]=(Text="¡Ah! ¡Maravilloso! Parece que la energía está volviendo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_02_002 AkEvent]
+Subtitles[0]=(Text="Como aún no he descubierto cómo salir de aquí, tendrás que ir solito al siguiente generador.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_02_003 AkEvent]
+Subtitles[0]=(Text="Si tomas las escaleras de allí, llegarás a la siguiente ala y al siguiente sector de la red eléctrica.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_02_004 AkEvent]
+Subtitles[0]=(Text="Dirígete al ala amarilla.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_02_005 AkEvent]
+Subtitles[0]=(Text="¿Acaso es este el piso de arriba? ¿Tanto ha empeorado la educación últimamente?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_03_001 AkEvent]
+Subtitles[0]=(Text="¡Tu tarea ya casi ha terminado!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_03_002 AkEvent]
+Subtitles[0]=(Text="Y entonces por fin te irás de mi casa dejándola como si hubiera pasado un tranvía de por medio.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_03_003 AkEvent]
+Subtitles[0]=(Text="Definitivamente; cuanto antes te vayas, mejor.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_03_004 AkEvent]
+Subtitles[0]=(Text="¿Por qué no vas tirando para el ala roja?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_03_005 AkEvent]
+Subtitles[0]=(Text="Ya sabes, el color rojo. Longitud de onda alrededor de 650 nanómetros.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_03_006 AkEvent]
+Subtitles[0]=(Text="Está arriba.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_001 AkEvent]
+Subtitles[0]=(Text="Espera. Qué rediablos...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_002 AkEvent]
+Subtitles[0]=(Text="Uy, uy... ¡Mira arriba!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_003 AkEvent]
+Subtitles[0]=(Text="¡Cuidado!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_004 AkEvent]
+Subtitles[0]=(Text="Vas a subir a ver qué es, ¿tengo razón?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_005 AkEvent]
+Subtitles[0]=(Text="Yo no te recomendaría ir allí, pero sabiendo lo que está pasando, no queda otra.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_006 AkEvent]
+Subtitles[0]=(Text="Debería estar subiendo las escaleras traseras. Allí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_007 AkEvent]
+Subtitles[0]=(Text="Parece que a uno de los reguladores de la emulciencia le salió un alter ego \"explosivo\".")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_008 AkEvent]
+Subtitles[0]=(Text="No creo que esta área gane ningún premio a la seguridad, precisamente.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_009 AkEvent]
+Subtitles[0]=(Text="Parece que sigue habiendo algún problema que mantiene la casa en estado de emergencia...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_001 AkEvent]
+Subtitles[0]=(Text="Oh, esa, eh... criatura es Ike, una entidad interdimensional cinética.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_002 AkEvent]
+Subtitles[0]=(Text="Me encontré a Ike hace tiempo y decidí llevármelo a la mansión.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_003 AkEvent]
+Subtitles[0]=(Text="He descubierto que su raza tiene la habilidad innata de poder ver el mundo a través de diferentes dimensiones a la vez.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_004 AkEvent]
+Subtitles[0]=(Text="Supongo que por eso está un poco p'allá.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_005 AkEvent]
+Subtitles[0]=(Text="Como norma general, no le mires a los ojos. Hazme caso.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_006 AkEvent]
+Subtitles[0]=(Text="Ike tiene unas necesidades nutricionales de lo más curiosas: engranajes de acero, espárragos, uranio-235... Lo que sea que le venga en gana, creo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_007 AkEvent]
+Subtitles[0]=(Text="Ike se ha vuelto un ayudante de laboratorio muy interesante, pero su apetito indiscriminado es un poco inconveniente.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_008 AkEvent]
+Subtitles[0]=(Text="Una de las razones por las que he instalado tantos dispositivos DOLLI es para contrarrestar el agujero negro que tiene en el estómago. ")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_009 AkEvent]
+Subtitles[0]=(Text="Hace tiempo que he estado investigando la raza de Ike y no suelen manifestarse tanto como él.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_010 AkEvent]
+Subtitles[0]=(Text="Ike es un poco precoz a veces. Como tú.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_011 AkEvent]
+Subtitles[0]=(Text="¡Oh! Qué útil.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_012 AkEvent]
+Subtitles[0]=(Text="Ojalá Ike no hiciera estas cosas.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_013 AkEvent]
+Subtitles[0]=(Text="Es un poco timidillo. Dale tiempo para que se acostumbre a ti.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_014 AkEvent]
+Subtitles[0]=(Text="¿En serio? ¿Qué es lo siguiente, robarle a un niño su caramelo?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_015 AkEvent]
+Subtitles[0]=(Text="Ya puestos podrías patear a un gatito. ¿También está en tus planes?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_001a AkEvent]
+Subtitles[0]=(Text="Oh, ¿estás aquí?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_001b AkEvent]
+Subtitles[0]=(Text="Me temo que estoy un poco... uups. Indispuesto ahora mismo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_001c AkEvent]
+Subtitles[0]=(Text="En esta visita te voy a enseñar el mejor invento del mundo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_002 AkEvent]
+Subtitles[0]=(Text="Deja tu maleta en el vestíbulo y vendré contigo enseguida que pueda.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_003 AkEvent]
+Subtitles[0]=(Text="¡Eh, tú, máquina del diablo!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_004 AkEvent]
+Subtitles[0]=(Text="A ver... si configuro el regulador de la velocidad transdimensional a aproximadamente 0,887 microsegundos tras el...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_005 AkEvent]
+Subtitles[0]=(Text="¡Menuda frustración!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_006 AkEvent]
+Subtitles[0]=(Text="¡Oh!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_007 AkEvent]
+Subtitles[0]=(Text="¡Uups!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_008 AkEvent]
+Subtitles[0]=(Text="Creí haberte dicho que trajeras tu maleta. Escuchar no es el fuerte de los críos de hoy en día.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_009 AkEvent]
+Subtitles[0]=(Text="Ah, bien. Por aquí tiene que haber un interruptor de emergencia para abrir esa puerta.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_010 AkEvent]
+Subtitles[0]=(Text="Espera un segundo... Algo no me cuadra aquí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_011 AkEvent]
+Subtitles[0]=(Text="Dónde demonios dejé eso...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_012 AkEvent]
+Subtitles[0]=(Text="¡Oh! ¡No-no-no, no-no-no-no! ¡NO!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_013 AkEvent]
+Subtitles[0]=(Text="¡AAAAAAAAAAHHH!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_014 AkEvent]
+Subtitles[0]=(Text="¿Qué ha sido eso?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_015 AkEvent]
+Subtitles[0]=(Text="¿Podrías utilizar tu maleta para llegar al interruptor de encima de la puerta?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_016 AkEvent]
+Subtitles[0]=(Text="La juventud de hoy en día...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_017 AkEvent]
+Subtitles[0]=(Text="Ah, cierto, lo había olvidado. ¿No eres muy alto, verdad?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_01_018 AkEvent]
+Subtitles[0]=(Text="Utiliza tu maleta para ayudarte a llegar un poco más arriba.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_001 AkEvent]
+Subtitles[0]=(Text="Espera... ¿Qué es lo que acaba de suceder?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_002 AkEvent]
+Subtitles[0]=(Text="¿Hola?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_003 AkEvent]
+Subtitles[0]=(Text="¿Dónde estoy?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_004 AkEvent]
+Subtitles[0]=(Text="No... No estoy muy seguro de dónde estoy ahora mismo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_005 AkEvent]
+Subtitles[0]=(Text="¿Me oyes?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_006 AkEvent]
+Subtitles[0]=(Text="¿Hola? ¿Me... me puedes oír? Salta un poco si es que sí.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_007 AkEvent]
+Subtitles[0]=(Text="Parece que la conexión segura de mi reloj sigue funcionando y aún te puedo ver y...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_008 AkEvent]
+Subtitles[0]=(Text="Lo último que recuerdo es estar en el sector de nuevas tecnologías y... nada más.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_009 AkEvent]
+Subtitles[0]=(Text="Bueno, a juzgar por la gran iluminación de la habitación, parece que seguimos con el generador de emergencia.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_010 AkEvent]
+Subtitles[0]=(Text="Haznos un favor tanto a ti como a mí y dirígete a la sala principal. Hay una manera de reiniciar el sistema eléctrico.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_011 AkEvent]
+Subtitles[0]=(Text="Creo que el sistema de emergencia se activó accidentalmente.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_012 AkEvent]
+Subtitles[0]=(Text="Por desgracia, la puerta principal seguirá en cerrado automático hasta que devuelvas la energía.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_013 AkEvent]
+Subtitles[0]=(Text="¿Notaste eso?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_014 AkEvent]
+Subtitles[0]=(Text="¿Hola? Oh, vaya eco.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_015 AkEvent]
+Subtitles[0]=(Text="La cabeza me está matando; diría que tengo un hematoma epidural enorme. Vamos, un chichonazo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Laugh_01_001 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Laugh_01_002 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Laugh_01_003 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Laugh_02_001 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Laugh_02_002 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Laugh_02_003 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_001 AkEvent]
+Subtitles[0]=(Text="Felicidades, has terminado una tarea tan sencilla que hasta un mono araña podría hacerla. Lástima que tú no tengas cola prensil.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_002 AkEvent]
+Subtitles[0]=(Text="A ver si solucionas esto.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_003 AkEvent]
+Subtitles[0]=(Text="Como suele decirse, nada como encontrar el momento justo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_004 AkEvent]
+Subtitles[0]=(Text="Vaya, mala suerte.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_005 AkEvent]
+Subtitles[0]=(Text="¡Buena atrapada!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_006 AkEvent]
+Subtitles[0]=(Text="Estaba bebiendo mucho café...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_007 AkEvent]
+Subtitles[0]=(Text="Veo que has encontrado una librería que no es tuya.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_008 AkEvent]
+Subtitles[0]=(Text="Supongo que no puedes destruir muchas cosas. Tuve que atar mis libros cuando empecé a experimentar con las dimensiones más volátiles.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_009 AkEvent]
+Subtitles[0]=(Text="No es ideal para leer, pero queda genial en la mesita del café.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_010 AkEvent]
+Subtitles[0]=(Text="¡Cuidado! ¡Es una edición original que el autor me firmó en las quince dimensiones! Su valor real es el único número divisible por cero.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_011 AkEvent]
+Subtitles[0]=(Text="Todo el mundo comete errores. A ti se te da especialmente bien.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_012 AkEvent]
+Subtitles[0]=(Text="La humanidad es imperfecta y tú eres un claro ejemplo.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_013 AkEvent]
+Subtitles[0]=(Text="Sabes, yo también tuve tu edad. ¿Qué tienes, diez?, ¿doce? Y ahí se acaban las similitudes.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_014 AkEvent]
+Subtitles[0]=(Text="Tengo que admitir que has mejorado bastante. Encomiable.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_015 AkEvent]
+Subtitles[0]=(Text="Pero que no se te suba a la cabeza.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_01_001 AkEvent]
+Subtitles[0]=(Text="Este es un retrato de mi padre: papá Wilford \"Zas\" Quadwrangle.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_01_002 AkEvent]
+Subtitles[0]=(Text="Estuvo en una misión secreta de la NASA para capturar el satélite Sputnik y reemplazarlo por una pelota de baloncesto.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_01_003 AkEvent]
+Subtitles[0]=(Text="Los soviéticos ni se enteraron. Probablemente porque la pelota tenía mejor recepción.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_02_001 AkEvent]
+Subtitles[0]=(Text="Aquí tenemos un retrato de Widget Tercero y su pez mascota, Gidget.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_02_002 AkEvent]
+Subtitles[0]=(Text="En un principio Gidget tenía que ser un aperitivo ligero para Widget, pero su débil mente no llegó a atar cabos.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_02_003 AkEvent]
+Subtitles[0]=(Text="A menudo están allí sentados, delante de su retrato, mirándolo confundidos. O al menos eso es lo que creo que miran. Nunca sé decir.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_03_001 AkEvent]
+Subtitles[0]=(Text="¡Ah! Desmond, nuestro mayordomo. Su título no oficial era \"Coordinador Jefe de Interruptores\".")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_03_002 AkEvent]
+Subtitles[0]=(Text="Siempre lo veías allí, dándole a los interruptores.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_03_003 AkEvent]
+Subtitles[0]=(Text="")
+Subtitles[1]=(Text="Le encantaban. En retrospectiva no tenía que haber inventado un robot pulsador de interruptores para reemplazarlo. Aunque recibió una buena indemnización.",Time=0.0f)
+bMature=False""
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_painting_04_001 AkEvent]
+Subtitles[0]=(Text="No te dejes engañar, eso no es una naturaleza muerta. Es el pez mascota de Nanna Triwrangle, el Capitán Colmillo-Cotillo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_04_002 AkEvent]
+Subtitles[0]=(Text="Le llamaba \"Colmillitos\" cariñosamente.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_04_003 AkEvent]
+Subtitles[0]=(Text="Caray, cómo odiaba la gente ese bicho; una vez incluso intentó morderme. Ay, nuestro querido Colmillo Golfillo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_05_001 AkEvent]
+Subtitles[0]=(Text="Aquí tienes un retrato de mi abuela materna, Nanna Triwrangle.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_05_002 AkEvent]
+Subtitles[0]=(Text="Dicen que mantuvo una mente de lo más despierta en sus años dorados, pero a mí siempre me pareció un poco obtusa.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_06_001 AkEvent]
+Subtitles[0]=(Text="No se lo digas a Ike, pero ese cuadro me pone de los nervios.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_06_002 AkEvent]
+Subtitles[0]=(Text="Parece una marmota demoníaca.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_06_003 AkEvent]
+Subtitles[0]=(Text="Parece el resultado de la unión entre un lémur y un murciélago.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_06_004 AkEvent]
+Subtitles[0]=(Text="Parece un oso de peluche con cabeza de un murciélago y ojos que hielan el alma.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_06_005 AkEvent]
+Subtitles[0]=(Text="Parece un horroroso koala mutante disecado.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_06_006 AkEvent]
+Subtitles[0]=(Text="Intento quitarlo cada dos por tres, pero él nunca me lo permite.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_07_001 AkEvent]
+Subtitles[0]=(Text="Ah, sí, bien. Veo que lo encontraste.")
+Subtitles[1]=(Text="Tu madre me lo dio por navidades y lo he querido colgar desde entonces. Pero ya sabes, a veces los adultos estamos ocupados.",Time=3.0f)
+bMature=False""
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_painting_07_002 AkEvent]
+Subtitles[0]=(Text="Construyendo un superreactor nuclear, puliendo un acelerador transdimensional...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_07_003 AkEvent]
+Subtitles[0]=(Text="Supéralo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_08_001 AkEvent]
+Subtitles[0]=(Text="Uno de mis primeros experimentos fue intentar transformar pequeños arbolitos normales en pequeños arbolitos felices.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_08_002 AkEvent]
+Subtitles[0]=(Text="Todo iba bien hasta que el bosque entero desapareció por culpa de las pequeñas termitas felices.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_08_003 AkEvent]
+Subtitles[0]=(Text="Ahora es un pequeño vertedero feliz.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_09_001 AkEvent]
+Subtitles[0]=(Text="Ese retrato es de mi tío abuelo, Worthington Enormuss Quadwrangle.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_09_002 AkEvent]
+Subtitles[0]=(Text="Le apasionaban las cosas de gran tamaño. Probablemente de ahí viniera su interés por África.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_09_003 AkEvent]
+Subtitles[0]=(Text="\"Buen lugar para cazar\", dijo. Este cuadro fue pintado justo antes de que se marchara.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_09_004 AkEvent]
+Subtitles[0]=(Text="Por desgracia, nunca regresó.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_10_001 AkEvent]
+Subtitles[0]=(Text="¡Ah, una de mis primeras victorias! Ese es Trasto, mi querido perrito.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_10_002 AkEvent]
+Subtitles[0]=(Text="No sé si era tremendamente listo o si poseía la inteligencia de un zapato. Se comía cualquier cosa que brillara.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_10_003 AkEvent]
+Subtitles[0]=(Text="Así es como descubrí que los perros metabolizan bastante rápido el plutonio. Cosa buena de saber al hacer crucigramas.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_11_001 AkEvent]
+Subtitles[0]=(Text="¡Caracoles! ¡Qué hombre tan apuesto!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_11_002 AkEvent]
+Subtitles[0]=(Text="Bien plantado, intelectual... ¡con bigote! Uno incluso podría decir que hasta impresiona.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_11_003 AkEvent]
+Subtitles[0]=(Text="Parece el tipo de hombre que podría dividir un átomo dos veces antes de desayunar. ¡Dos veces!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_12_001 AkEvent]
+Subtitles[0]=(Text="Ahí tienes un cuadro del guante de Interfaz Dimensional de Sustitución que llevas.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_12_002 AkEvent]
+Subtitles[0]=(Text="¿Ves qué bonito y limpio que está, en vez de destrozado por un mocoso no cualificado de diez años? ¿O tenías doce? Nunca me acuerdo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_12_003 AkEvent]
+Subtitles[0]=(Text="Asegurémonos de que la vida imite al arte.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_painting_13_001 AkEvent]
+Subtitles[0]=(Text="Qué extraño... Ese cuadro no debería estar haciendo eso. Algo no termina de funcionar aquí...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_14_001 AkEvent]
+Subtitles[0]=(Text="Este era el gato de la familia, Lord Widget Pompadore Suavington IV, o Widget I.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_14_002 AkEvent]
+Subtitles[0]=(Text="Sin saber cómo, se metió en una de las unidades DOLLI clonadoras.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_14_003 AkEvent]
+Subtitles[0]=(Text="Construí especialmente este monóculo para él. Quién me iba a decir que sería tan difícil encontrar monóculos para gatos... ¡Ridículo!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_14_004 AkEvent]
+Subtitles[0]=(Text="Por desgracia, Widget I murió, aunque su memoria perdura. De un modo u otro...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_15_001 AkEvent]
+Subtitles[0]=(Text="Digamos que la máquina DOLLI de clonación funciona perfectamente con objetos inanimados, pero no tan bien con los orgánicos.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_15_002 AkEvent]
+Subtitles[0]=(Text="Este es el clon de primera generación de Widget.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_15_003 AkEvent]
+Subtitles[0]=(Text="Le llamamos Coronel Suavington McZarpas, o Widget II.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_15_004 AkEvent]
+Subtitles[0]=(Text="Widget II es más o menos un gato funcional, sólo que salió un poco tuerto.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_16_001 AkEvent]
+Subtitles[0]=(Text="Luego volví a pasar a Widget II a través de la máquina DOLLI. Simplemente... no me pude resistir.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_16_002 AkEvent]
+Subtitles[0]=(Text="Allí sí ya aprendí la lección.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_16_003 AkEvent]
+Subtitles[0]=(Text="Técnicamente, su nombre es Widget III, pero suele responder a \"Derp\".")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_16_004 AkEvent]
+Subtitles[0]=(Text="A menudo me lo encuentro andando en círculos mientras mira sus patas.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_16_005 AkEvent]
+Subtitles[0]=(Text="Es muy cariñoso, pero tiena la inteligencia de un saco de patatas.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_17_001 AkEvent]
+Subtitles[0]=(Text="La máquina a la que llamo \"DOLLI\" empezó siendo una forja de metal que pertenecía a mi familia desde la época medieval.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_17_002 AkEvent]
+Subtitles[0]=(Text="La armadura Quadwrangle original fue construida en esta mismísima forja.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_18_001 AkEvent]
+Subtitles[0]=(Text="Mi tatarabuelo modificó la antigua forja para que cuando tuviera suficientes recursos naturales, construyera ella misma los objetos.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_18_002 AkEvent]
+Subtitles[0]=(Text="Esta predecesora de DOLLI proporcionó todos los materiales necesarios para construir las vías del metro.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_18_003 AkEvent]
+Subtitles[0]=(Text="¡Esta máquina ganó la guerra civil por sí sola!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_19_001 AkEvent]
+Subtitles[0]=(Text="Luego yo hice mis propios cambios sobre el diseño de mi tatarabuelo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_19_002 AkEvent]
+Subtitles[0]=(Text="Las especificaciones actuales de DOLLI no requieren de ningún material especial.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_19_003 AkEvent]
+Subtitles[0]=(Text="Por ejemplo, DOLLI convierte la energía de la tan radioactiva emulciencia directamente en materia.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_19_004 AkEvent]
+Subtitles[0]=(Text="Nunca he entendido por qué crea tantas copias de cada objeto.")
+Subtitles[1]=(Text="¡En fin, uno nunca puede tener suficientes cajas fuertes! O sillas... o mmm... ¡mesitas de café!",Time=4.0f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_Painting_20_001 AkEvent]
+Subtitles[0]=(Text="El primer edificio creado en las tierras de los Quadwrangle no era muy espectacular.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_20_002 AkEvent]
+Subtitles[0]=(Text="¡Pero el trabajo de las cañerías era impecable!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_20_003 AkEvent]
+Subtitles[0]=(Text="¡Muy avanzado para su época!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_21_001 AkEvent]
+Subtitles[0]=(Text="Con los años, los Quadwrangle fueron ampliando su vivienda.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_21_002 AkEvent]
+Subtitles[0]=(Text="Aunque debo añadir que por aquel entonces nadie en mi familia había sido expuesto a mucha radiación...")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_22_001 AkEvent]
+Subtitles[0]=(Text="¡Ah, y aquí puedes ver la mansión Quadwrangle tal y como es hoy en día!")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_22_002 AkEvent]
+Subtitles[0]=(Text="Como puedes observar, a lo largo de los años he hecho algunas... modificaciones para acomodar mis experimentos.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_22_003 AkEvent]
+Subtitles[0]=(Text="Te habrás fijado en todas las tuberías que evitan que los líquidos radioactivos inunden la salita de estar.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_23_001 AkEvent]
+Subtitles[0]=(Text="Encargué este retrato mío y de Ike antes de que empezáramos a viajar por el tiempo en los setenta.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_23_002 AkEvent]
+Subtitles[0]=(Text="Por aquel entonces, viajar por el tiempo estaba muy de moda... al menos en los círculos más científicos.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_23_003 AkEvent]
+Subtitles[0]=(Text="Uno de mis colegas hacía las mejores fiestas de disfraces del mundo mundial, y ya sabes que nada se sale más que lo auténtico.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_24_001 AkEvent]
+Subtitles[0]=(Text="Nuestros viajes temporales nos llevaron al Japón feudal, donde parece que tomaron mucho cariño a Ike.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_24_002 AkEvent]
+Subtitles[0]=(Text="Espero que presentarles una criatura pequeñita, supermona y achuchable no alterara en ninguna manera el presente.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_24_003 AkEvent]
+Subtitles[0]=(Text="¡Ah! Hay un ninja en ese cuadro, sólo que no lo puedes ver.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_25_001 AkEvent]
+Subtitles[0]=(Text="Una vez viajé a un tiempo donde la gente era más... refinada; con clase.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_25_002 AkEvent]
+Subtitles[0]=(Text="Gorros de copa, monóculos y toda la pesca.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_25_003 AkEvent]
+Subtitles[0]=(Text="Por supuesto, luego nos dimos cuenta de que sólo lo parecía; la falta de agua corriente y la mala higiene causaba estragos en su olor.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_26_001 AkEvent]
+Subtitles[0]=(Text="¿Sabías que la única manera legal de cazar tigres es viajar al pasado para hacerlo?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_26_002 AkEvent]
+Subtitles[0]=(Text="No es que recomiende tal actividad.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_26_003 AkEvent]
+Subtitles[0]=(Text="De hecho tengo la hipótesis de que si los tigres se están a punto de extinguir, es porque la gente sigue viajando al pasado para cazarlos.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_27_001 AkEvent]
+Subtitles[0]=(Text="Ike y yo una vez fuimos al pasado para ver si podíamos encontrar la magnífica ciudad de oro.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_27_002 AkEvent]
+Subtitles[0]=(Text="No lo conseguimos, y para serte sincero: las ciudades perdidas de bronce y plata no son nada del otro mundo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_27_003 AkEvent]
+Subtitles[0]=(Text="Aunque supongo que pudo haber sido peor.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_28_001 AkEvent]
+Subtitles[0]=(Text="Lo mejor de ir al futuro es volver vestido de allí y presentarte así a las convenciones de ciencia ficción.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_28_002 AkEvent]
+Subtitles[0]=(Text="¿Sabes que en el futuro aún no tienen coches voladores?")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_28_003 AkEvent]
+Subtitles[0]=(Text="Debería añadir esto a la lista de inventos que hacer en cuanto salga de donde diablos esté.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_28_004 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_29_001 AkEvent]
+Subtitles[0]=(Text="Esta es otra mascota que la máquina DOLLI clonó con resultados... interesantes.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_29_002 AkEvent]
+Subtitles[0]=(Text="Así es como se creó el primer y único perro elástico del mundo.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_29_003 AkEvent]
+Subtitles[0]=(Text="Lo llamé Chicle.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_29_004 AkEvent]
+Subtitles[0]=(Text="De hecho, ahora que lo pienso, me recuerda mucho a uno de los juguetes de esa peli... Blinky o algo así...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_30_001 AkEvent]
+Subtitles[0]=(Text="Puede que te acuerdes de algunos de mis inventos de las visitas pasadas.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_30_002 AkEvent]
+Subtitles[0]=(Text="Esta es mi pistola de hielo, la Frigi Rayo Vaughan.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_31_001 AkEvent]
+Subtitles[0]=(Text="Este es uno de mis inventos antiguos, Joan el Jett Pack.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_31_002 AkEvent]
+Subtitles[0]=(Text="Funcionaba bien, pero a veces tenía muchos problemas para aguantarme en el aire.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_31_003 AkEvent]
+Subtitles[0]=(Text="Un pelín inflamable. Algunos incluso dirían incendiario.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_32_001 AkEvent]
+Subtitles[0]=(Text="Seguramente nunca hayas visto este invento. Era mi excavadora particular.")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_32_002 AkEvent]
+Subtitles[0]=(Text="Le pusimos de nombre la Excavadora Amarilla. Bueno, yo no, Ike. ")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_32_003 AkEvent]
+Subtitles[0]=(Text="Era un pelín demasiado eficiente; esta fue la primera y última vez que la vi.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Sigh_01_001 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Sigh_01_002 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Sigh_02_001 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Sigh_02_002 AkEvent]
+Subtitles[0]=(Text="")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_016 AkEvent]
+Subtitles[0]=(Text="Que en este caso es...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_01_016b AkEvent]
+Subtitles[0]=(Text="¡La dimensión ligera!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_08_006 AkEvent]
+Subtitles[0]=(Text="Piensa en esta compleja obra tecnológica como si fuera un trampolín... ¡Saltar dos veces podría ayudar!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_A_09_011 AkEvent]
+Subtitles[0]=(Text="Utiliza la tapa a modo de tabla.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_13_006 AkEvent]
+Subtitles[0]=(Text="¡Rápido! ¡Ahora!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_13_007 AkEvent]
+Subtitles[0]=(Text="Y... ¡allá vas!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_13_008 AkEvent]
+Subtitles[0]=(Text="¡Olé, chico, tú puedes!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_16_009 AkEvent]
+Subtitles[0]=(Text="Da un salto de fe, el tiempo está de tu parte.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_16_010 AkEvent]
+Subtitles[0]=(Text="Estas cajas fuertes están un pelín agitadas.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_B_16_010b AkEvent]
+Subtitles[0]=(Text="Deberías intentar estabilizarlas primero.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Collect_01_031 AkEvent]
+Subtitles[0]=(Text="Me alegra que hayas encontrado esto, pero hay cosas más urgentes que hacer.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_014 AkEvent]
+Subtitles[0]=(Text="Uy, esto sí que es \"caer en saco roto\"...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_014b AkEvent]
+Subtitles[0]=(Text="Perdón, estoy un poco tenso.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_015 AkEvent]
+Subtitles[0]=(Text="Ups, creo que reiniciar los generadores no ha sido la mejor de las ideas.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_016 AkEvent]
+Subtitles[0]=(Text="Principios caóticos e inciertos, parece que la casa cada vez es menos estable.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_017 AkEvent]
+Subtitles[0]=(Text="Ánimo, ya casi llegas al ascensor que te llevará al laboratorio de nuevas tecnologías... y al Súper IDS.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_018 AkEvent]
+Subtitles[0]=(Text="Argh... no es por meterte presión, pero deberías espabilar un poco.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_019 AkEvent]
+Subtitles[0]=(Text="Otra vez no... Casa, por favor, aguanta tu integridad estructural un poquito más.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_020 AkEvent]
+Subtitles[0]=(Text="Oooh... esto no me lo esperaba.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_021 AkEvent]
+Subtitles[0]=(Text="Eh, ¿qué...? ¿Acabo de estar allí?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_022 AkEvent]
+Subtitles[0]=(Text="Parece que mi estabilidad dimensional no es tan estable, de hecho.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_023 AkEvent]
+Subtitles[0]=(Text="Eso que te decía de que espabilaras... Sería genial si te dieras brío.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_01_024 AkEvent]
+Subtitles[0]=(Text="Sí, sigue siendo una sensación perturbadora.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_016 AkEvent]
+Subtitles[0]=(Text="La parte positiva es que ese conducto de ventilación llega al mismo lugar que el ascensor.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_017 AkEvent]
+Subtitles[0]=(Text="La negativa es que si te caes, te matas. Así que bueno...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_018 AkEvent]
+Subtitles[0]=(Text="Si lo consigues, tendrás que reiniciar el Súper IDS.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_019 AkEvent]
+Subtitles[0]=(Text="Es como el guante que llevas, sólo que muchísimo más grande.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_020 AkEvent]
+Subtitles[0]=(Text="De hecho, la mansión ha sido remodelada para poder dar energía al dispositivo.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_021 AkEvent]
+Subtitles[0]=(Text="Debería permitirme salir de esta dimensión alternativa. O eso espero.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_022 AkEvent]
+Subtitles[0]=(Text="Ahhh...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_023 AkEvent]
+Subtitles[0]=(Text="Estás en el panel principal del Súper IDS.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_024 AkEvent]
+Subtitles[0]=(Text="¡Maravilloso! Tres baterías IDS más y ya podré estabilizarme en tu dimensión.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_025 AkEvent]
+Subtitles[0]=(Text="Aunque hay algo que me preocupa.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_026 AkEvent]
+Subtitles[0]=(Text="No termino de acordarme de todo...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_027 AkEvent]
+Subtitles[0]=(Text="Pérdida de memoria...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_028 AkEvent]
+Subtitles[0]=(Text="La mansión en estado de emergencia...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_029 AkEvent]
+Subtitles[0]=(Text="Máquinas estropeadas...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_030 AkEvent]
+Subtitles[0]=(Text="Qué más, qué más...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_031 AkEvent]
+Subtitles[0]=(Text="Inundaciones de emulciencia...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_032b AkEvent]
+Subtitles[0]=(Text="Inundaciones de emulciencia...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_032c AkEvent]
+Subtitles[0]=(Text="¡¡¡INUNDACIONES DE EMULCIENCIA!!!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_032 AkEvent]
+Subtitles[0]=(Text="¡ESPERA! ¡NOOO!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_033 AkEvent]
+Subtitles[0]=(Text="¡Argh! ¡Ya lo entiendo!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_034 AkEvent]
+Subtitles[0]=(Text="¡Las inundaciones proveen un flujo de energía inestable al IDS!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_035 AkEvent]
+Subtitles[0]=(Text="Esto... ¡Esto es muy peligroso!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_036 AkEvent]
+Subtitles[0]=(Text="¡Tengo que sacarte de allí antes de que sea demasiado tarde!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_037 AkEvent]
+Subtitles[0]=(Text="¡Ah! ¡Necesito que vayas al núcleo del dispositivo IDS!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_037b AkEvent]
+Subtitles[0]=(Text="¡Ya me acuerdo!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_037c AkEvent]
+Subtitles[0]=(Text="¡Puse una dimensión alternativa como medida de seguridad!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_037d AkEvent]
+Subtitles[0]=(Text="Por eso... Por eso estoy en esta dimensión. ¡ME METÍ AQUÍ YO MISMO!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_038 AkEvent]
+Subtitles[0]=(Text="¡Rápido!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_038b AkEvent]
+Subtitles[0]=(Text="¡Ve hasta el núcleo!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_038c AkEvent]
+Subtitles[0]=(Text="¿Acaso quieres morir? ¡VENGA!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_039 AkEvent]
+Subtitles[0]=(Text="Argh... otra vez...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_039b AkEvent]
+Subtitles[0]=(Text="Uuuuf...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_D_02_039c AkEvent]
+Subtitles[0]=(Text="Aaah... venga...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_01_001 AkEvent]
+Subtitles[0]=(Text="Seguro que te interesa la solución de problemas dimensionales.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_01_002 AkEvent]
+Subtitles[0]=(Text="En ese caso, estás jugando la versión de prueba indicada.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_01_003 AkEvent]
+Subtitles[0]=(Text="Aquí tienes información útil que vas a necesitar en los próximos minutos.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_01_004 AkEvent]
+Subtitles[0]=(Text="En caso de que te lo preguntes, soy el profesor Fitz Quadwrangle y tú estás en mi casa.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_01_005 AkEvent]
+Subtitles[0]=(Text="Esta es una de mis creaciones más sofisticadas, ¡el pájaro bebedor! Pulsa interruptores.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_01_006 AkEvent]
+Subtitles[0]=(Text="En este caso, pulsa el interruptor que activa una brecha temporal.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_01_007 AkEvent]
+Subtitles[0]=(Text="¡Ah, ah, ah! Ahora verás...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_01_009 AkEvent]
+Subtitles[0]=(Text="¿Impresionado? Ya puedes estarlo.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_01_010 AkEvent]
+Subtitles[0]=(Text="¿No es adorable? Y también útil, de hecho, ya que todo es diez veces más ligero.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_01_015 AkEvent]
+Subtitles[0]=(Text="Vale, ya puedes ir.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_01_016 AkEvent]
+Subtitles[0]=(Text="Qué impaciencia.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_01_11 AkEvent]
+Subtitles[0]=(Text="Eso que llevas es un guante de Interfaz Dimensional de Sustitución. Te permite cambiar de dimensiones por tu cuenta.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_01_12 AkEvent]
+Subtitles[0]=(Text="")
+Subtitles[1]=(Text="Asimismo, al llevar el guante IDS, los cambios dimensionales no te aplican y mantienes la misma forma, masa y velocidad. ¡Jo, jo! ¡Afortunado tú!",Time=0.0f)
+bMature=False""
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_Demo_01_13 AkEvent]
+Subtitles[0]=(Text="Ese cilindro es una batería IDS, que da energía a los cambios dimensionales.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_01_14 AkEvent]
+Subtitles[0]=(Text="Lánzalo al receptáculo que hay en la pared. Allí al piso de arriba.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_02_001 AkEvent]
+Subtitles[0]=(Text="Esta es una batería nueva que da energía a otra dimensión diferente.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_02_002 AkEvent]
+Subtitles[0]=(Text="Adelante, ponla en el receptáculo.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_02_003 AkEvent]
+Subtitles[0]=(Text="¡La dimensión pesada!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_02_004 AkEvent]
+Subtitles[0]=(Text="Aquí, en vez de que las cosas se vuelvan más ligeras, pasa todo lo contrario.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_03_001 AkEvent]
+Subtitles[0]=(Text="Ve con cuidado con esos rayos láser, no hacen cosquillas precisamente.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_04_001 AkEvent]
+Subtitles[0]=(Text="Es el momento. El final de la prueba. ¡Buena suerte!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_04_001b AkEvent]
+Subtitles[0]=(Text="Espléndido, has demostrado ser bueno solucionando problemas faciluchos.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_04_002 AkEvent]
+Subtitles[0]=(Text="Es una lástima que esto solo sea una... ejem, versión de prueba.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_04_003 AkEvent]
+Subtitles[0]=(Text="Odio admitirlo, pero creo que necesito tu ayuda.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Demo_04_004 AkEvent]
+Subtitles[0]=(Text="La dimensión ralentizada; creo que el nombre lo dice todo.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DemoHall_01_001 AkEvent]
+Subtitles[0]=(Text="Has podido probar un poco la dimensión ligera y ya conoces la batería que te permite cambiar a ella.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DemoHall_01_002 AkEvent]
+Subtitles[0]=(Text="Ahora toca conocer una dimensión totalmente nueva en la siguiente habitación.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DemoHall_02_001 AkEvent]
+Subtitles[0]=(Text="La siguiente área es bastante interesante.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DemoHall_03_001 AkEvent]
+Subtitles[0]=(Text="No sé si terminas de comprender la brillantez pura y dura necesaria para crear un dispositivo como el que utilizas.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_DemoHall_03_002 AkEvent]
+Subtitles[0]=(Text="Me temo que tendré que quitarte el control del dispositivo IDS un ratito, pero te enseñaré una dimensión nueva.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_04_001 AkEvent]
+Subtitles[0]=(Text="Para un momento y observa el cuadro.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_04_002 AkEvent]
+Subtitles[0]=(Text="Je, ajá. No, pues no.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Hall_49_003 AkEvent]
+Subtitles[0]=(Text="Una vez quitemos el estado de emergencia de la mansión te podrás ir... eh, a cualquier otro lugar.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_54_001 AkEvent]
+Subtitles[0]=(Text="¡Genial! ¡Ya casi!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_54_001b AkEvent]
+Subtitles[0]=(Text="Sólo tenemos que hacer que funcione.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_54_001c AkEvent]
+Subtitles[0]=(Text="Esto debería hacer que viniera el ascensor.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_hall_54_001d AkEvent]
+Subtitles[0]=(Text="¿O no?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Ike_01_016 AkEvent]
+Subtitles[0]=(Text="Mmm, me pregunto qué estará comiendo.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_01_019 AkEvent]
+Subtitles[0]=(Text="Te dije que agarraras ese guante.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_01_020 AkEvent]
+Subtitles[0]=(Text="Está en la oficina.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_01_021 AkEvent]
+Subtitles[0]=(Text="Creo que te he dicho que fueras a la oficina.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_01_022 AkEvent]
+Subtitles[0]=(Text="Podrías... no sé... ¿ir a la oficina, por ejemplo?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_02_006 AkEvent]
+Subtitles[0]=(Text="¿Por qué no echas un vistazo a esos planos?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_02_007 AkEvent]
+Subtitles[0]=(Text="Bien hecho. Hay que ver lo bien que se te da ser redundante.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_010 AkEvent]
+Subtitles[0]=(Text="Jamás me habría imaginado este resultado...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_012 AkEvent]
+Subtitles[0]=(Text="Maldita memoria... ¡Tengo que solucionar esto!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_013 AkEvent]
+Subtitles[0]=(Text="Pero... ¡Espera!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_014 AkEvent]
+Subtitles[0]=(Text="¡El Súper IDS!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_015 AkEvent]
+Subtitles[0]=(Text="¡Rápido! ¡Sube allí!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_016 AkEvent]
+Subtitles[0]=(Text="Luego te explico.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_017 AkEvent]
+Subtitles[0]=(Text="¡Rápido, antes de que todo se colapse!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_018 AkEvent]
+Subtitles[0]=(Text="Me acuerdo perfectamente de dónde estaba cuando todo empezó.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_HUB_04_019 AkEvent]
+Subtitles[0]=(Text="Si llegas allí, a lo mejor podrás descubrir  cómo sacarme de esta dimensión.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_007b AkEvent]
+Subtitles[0]=(Text="¡Ah! Parece que aún puedo utilizar el sistema de comunicaciones.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_016 AkEvent]
+Subtitles[0]=(Text="Bueno, creo que puedo hacerlo mejor que eso.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_016b AkEvent]
+Subtitles[0]=(Text="Probando... probando... probando... probando... probando...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_017 AkEvent]
+Subtitles[0]=(Text="Ajá. Mucho mejor.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_018 AkEvent]
+Subtitles[0]=(Text="A ver. ¿Qué diablos estás haciendo allí?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_018b AkEvent]
+Subtitles[0]=(Text="¿Hoy era el día que tenías que venir?")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Intro_02_018c AkEvent]
+Subtitles[0]=(Text="No importa.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Misc_01_016 AkEvent]
+Subtitles[0]=(Text="Ah, sí, si no le comentaras nada de esto a tu madre... pues, je, je, sería genial.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_33_01 AkEvent]
+Subtitles[0]=(Text="Este es mi primo segundo, Billy.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_33_02 AkEvent]
+Subtitles[0]=(Text="Siempre le ha perdido la ficción de los libros.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_33_03 AkEvent]
+Subtitles[0]=(Text="Incluso modeló su vida según sus historias favoritas.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_33_04 AkEvent]
+Subtitles[0]=(Text="Nadie lo volvió a ver tras este argumento en particular.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_34_01 AkEvent]
+Subtitles[0]=(Text="Fischer Michaelson, uno de los mayores inversores de las Industrias Quadwrangle.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Painting_34_02 AkEvent]
+Subtitles[0]=(Text="Me da cosa admitirlo, pero la verdad es que la mayoría de mis mejores inventos no habrían sido posibles sin él.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Praise_01_001 AkEvent]
+Subtitles[0]=(Text="¡Ah, creo que incluso podría estar orgulloso de ti!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Think_01_001 AkEvent]
+Subtitles[0]=(Text="A ver...")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Think_01_002 AkEvent]
+Subtitles[0]=(Text="¡Ah!")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_Think_01_003 AkEvent]
+Subtitles[0]=(Text="Ja, ja, ja. Vaya.")
+bMature=False""
+bManualWordWrap=False
+bSingleLine=False
+Comment=""

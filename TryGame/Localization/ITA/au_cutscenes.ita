@@ -1,0 +1,57 @@
+[Play_storybook_02_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_02b_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_03_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_04_mix_03 AkEvent]
+Subtitles[0]=(Text=" ", Time=0.0f)
+Subtitles[1]=(Text="E qui finisce la nostra storia.", Time=1.6f)
+Subtitles[2]=(Text=" ", Time=3.9f)
+Subtitles[3]=(Text=" ", Time=5.8f)
+Subtitles[4]=(Text="Scherzo! Ecco cos'è successo per davvero.", Time=7.0f)
+Subtitles[5]=(Text="Non che migliori molto.", Time=12.29f)
+Subtitles[6]=(Text="Sei finito sano e salvo nella dimensione parallela.", Time=15.3f)
+Subtitles[7]=(Text="Purtroppo, io sono bloccato qui.", Time=19.38f)
+Subtitles[8]=(Text="E mi toccherà risolvere questo pasticcio.", Time=24.35f)
+Subtitles[9]=(Text=" ", Time=26.9f)
+Subtitles[10]=(Text="La cosa", Time=38.75f)
+Subtitles[11]=(Text="si preannuncia interessante.", Time=40.06f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_storybook_mix_1 AkEvent]
+Subtitles[0]=(Text="C'era una volta... è così che iniziano queste cose di solito, vero?",Time=1.8f)
+Subtitles[1]=(Text="Una sorella che era dispiaciuta per il suo intelligente, prolifico e incredibile fratello.",Time=6.0f)
+Subtitles[2]=(Text="Era convinta che si sentisse solo, o almeno è quello che dice lei.", Time=11.5f)
+Subtitles[3]=(Text="E così, un venerdì pomeriggio assolutamente normale e produttivo, la sorella andò a prendere suo figlio al Collegio Maschile di Elwood",Time=17.0f)
+Subtitles[4]=(Text="e portò il suo irritante pargolo a casa mia... ehm, voglio dire, di suo fratello.",Time=23.0f)
+Subtitles[5]=(Text="Tu, cioè volevo dire... il bambino, era già stato altre volte al castello Quadrwangle.",Time=29.5f)
+Subtitles[6]=(Text="Ogni volta il fratello, che era, in realtà, un professore e inventore di profondo e finissimo intelletto, aveva fatto la sua entrata trionfale.",Time=34.5f)
+Subtitles[7]=(Text="A ogni visita, le invenzioni che gli mostrava erano sempre più ingegnose e all'avanguardia.",Time=48.0f)
+Subtitles[8]=(Text="Il bambino aspettava con ansia che il professore gli mostrasse il suo ultimo marchingegno, ma questa - la più interessante di tutte le visite - andò un po' diversamente dalle altre.",Time=55.0f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Stop_cutscene AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+

@@ -1,0 +1,57 @@
+[Play_storybook_02_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_02b_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_03_mix_01 AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
+[Play_storybook_04_mix_03 AkEvent]
+Subtitles[0]=(Text=" ", Time=0.0f)
+Subtitles[1]=(Text="Und so endet unsere Geschichte.", Time=1.6f)
+Subtitles[2]=(Text=" ", Time=3.9f)
+Subtitles[3]=(Text=" ", Time=5.8f)
+Subtitles[4]=(Text="Nur ein Scherz! Hier ist, was wirklich geschehen ist. ", Time=7.08f)
+Subtitles[5]=(Text="Nicht, dass die Wahrheit auch nur ansatzweise aufregender wäre ...", Time=12.29f)
+Subtitles[6]=(Text="Du scheinst wohlbehalten in der parallelen Dimension gelandet zu sein.", Time=15.3f)
+Subtitles[7]=(Text="Bedauerlicherweise stecke ich nun hier draußen fest.", Time=19.38f)
+Subtitles[8]=(Text="Und ich werde dieses Dilemma aus der Welt schaffen müssen.", Time=24.35f)
+Subtitles[9]=(Text=" ", Time=26.9f)
+Subtitles[10]=(Text="Das ...", Time=38.75f)
+Subtitles[11]=(Text="verspricht interessant zu werden.", Time=40.06f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Play_storybook_mix_1 AkEvent]
+Subtitles[0]=(Text="Es war einmal ... So fängt das doch für gewöhnlich an, oder?",Time=2.0f)
+Subtitles[1]=(Text="Eine Schwester hatte Mitleid mit ihrem brillanten, produktiven, wunderbaren Bruder.",Time=6.0f)
+Subtitles[2]=(Text="Irgendwie hatte es sich in ihrem Kopf festgesetzt, dass er einsam sein könnte. Das behauptet sie zumindestens.", Time=11.5f)
+Subtitles[3]=(Text="Und so kam es, dass besagte Schwester eines wunderschönen, produktiven Freitags ihren Sohn von der Elwood Academy",Time=17.0f)
+Subtitles[4]=(Text="für Jungen abholt und das nervtötende Balg bei mir - eh, ich meine natürlich bei dem Bruder, abgibt.",Time=23.0f)
+Subtitles[5]=(Text="Ich sollte erwähnen, dass du - ich meine, der Junge - die Villa Quadwrangle bereits ein paar Mal besucht hat.",Time=29.5f)
+Subtitles[6]=(Text="Jedes Mal wurde der Besuch durch den großen Auftritt des Bruders, bei dem es sich um einen Professor und Erfinder mit profundem, stetig wachsenden Wissen handelt, abgerundet.",Time=34.5f)
+Subtitles[7]=(Text="Mit jedem Besuch wurden die von ihm vorgeführten Erfindungen raffinierter und innovativer.",Time=48.0f)
+Subtitles[8]=(Text="Voll Ungeduld erwartete der Junge die Enthüllung des neusten Meisterwerks des Professors, aber dieser Besuch, der der fesselndste von allen werden sollte, begann etwas anders.",Time=55.0f)
+bMature=False
+bManualWordWrap=False
+bSingleLine=True
+Comment=""
+
+[Stop_cutscene AkEvent]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+Comment=""
+
