@@ -1,0 +1,57 @@
+[AirEditor]
+; Camera Tree Strings
+ObjectContext_EditCameraTree=Edit Camera Tree...
+CameraTreeEditor=CameraTree Editor
+CameraTreeEditor_F=CameraTree Editor: `~
+; Behavior Tree Strings
+ObjectContext_EditBehaviorTree=Edit Behavior Tree...
+BehaviorTreeSearch=Behavior Tree Search
+BehaviorTreeEditor=AI BehaviorTree Editor
+BehaviorTreeEditor_F=AI BehaviorTree Editor: `~ (Ver: `~)
+BehaviorTreeEditor_PrettifyTree=Prettify BehaviorTree
+BTReplaceNodeWith=Replace Node With...
+BehaviorTreeEditor_Debug_Load=Load Debug File
+BehaviorTreeEditor_Debug_Step=Single Step Forward
+BehaviorTreeEditor_Debug_StepBack=Single Step Backward
+BehaviorTreeEditor_RunUntilSelectionChanges=Run Until Node Changes State
+BehaviorTreeEditor_Debug_Abort=Abort Debugging
+BehaviorTreeEditor_ResetColors=Reset BehaviorTree Colors
+BehaviorTreeEditor_FollowSelection=Follow Current Debug Node
+BehaviorTreeEditor_LoadingDebugFile=Loading Debug Playback File...
+BehaviorTreeEditor_InvalidCloseError=One or more BehaviorTree nodes is missing a proper child node connection.  Do you want to fix these errors before closing the editor?
+BehaviorTreeEditor_InvalidDebugFileError=This debug file is not compatible with the current BehaviorTree!
+BehaviorTreeEditor_PreviewController=Preview Controller
+InsertNewInput=Insert New Input
+BTNewNodeMenu_Actions=Actions
+BTNewNodeMenu_Conditions=Conditions
+BTNewNodeMenu_Decorators=Decorators
+BTNewNodeMenu_Composites=Composites
+BTOptions_InstanceSubtree=Replace With a Subtree Instance
+Error_BehaviorTreeLoopDetected=Loops are not allowed in BehaviorTrees!
+Error_BehaviorTreeAlreadyBeingEdited=This BehaviorTree is already being edited.
+Error_BehaviorTreeCopyError=Cannot copy/paste nodes with less children that their default!
+ResetInputs=Result Default Children for Node
+; Menu Strings
+AirtightMenuItem=Airtight
+AirtightImportPropertiesMenuItem=Import Object Properties
+AirtightImportPropertiesMenuTip=Imports object properties from a spreadsheet
+AirtightImportAudioMenuItem=&Import Audio
+AirtightImportAudioMenuTip=Import all Wwise audio banks
+AirtightBuildInfluenceMapMenuItem=Build AI Influence Maps
+AirtightBuildInfluenceMapMenuTip=Builds influence map data from existing nav mesh data, used by game AI
+; Button Bar Strings
+AirtightAmbientAudioButtonGroupLabel=Amb Audio
+AirtightAmbientAudioEditButtonBarItem=Edit Mode Off
+AirtightAmbientAudioCreateButtonBarItem=Create (Shift + L-Click)
+AirtightAmbientAudioAppendButtonBarItem=Append (Shift + L-Click)
+AirtightAmbientAudioInsertButtonBarItem=Insert (Shift + L-Click)
+AirtightAmbientAudioSplitButtonBarItem=Split (Shift + L-Click)
+;One-click, auto audio import.
+ImportAudioYouSure=This action will update all bank and event assets.  \n\nProceed?
+ImportAudioFailed=Failed to load '`~'.
+ImportAudioInvalidPackageName=Package name, '`~', invalid. ('`~')
+ImportAudioFailedToFindOrCreatePackage=Failed to find or create package, '`~'
+ImportAudioFailedToCreateFactory=Failed to create AkBank Factory.
+ImportAudioFailedToCreateBank=Failed to create AkBank object, '`~'.
+ImportAudioFailedToCreateObject=Failed to create object, '`~', in package, '`~'.
+ImportAudioFailedToDeleteObject=Failed to delete object, '`~'.
